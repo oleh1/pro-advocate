@@ -1369,7 +1369,7 @@
             top: 0;
             width: 100%;
             height: 100%;
-            overflow-x: auto;
+            overflow-x: hidden;
             overflow-y: scroll;
             position: fixed;
             z-index: 99999
@@ -1446,7 +1446,7 @@
 
         body.device-mobile-optimized #SITE_CONTAINER {
             width: 320px;
-            overflow-x: visible;
+            overflow-x: hidden;
             margin: 0 auto;
             position: relative
         }
@@ -1530,7 +1530,7 @@
         }
 
         body[contenteditable] {
-            overflow-x: auto;
+            overflow-x: hidden;
             overflow-y: auto
         }
 
