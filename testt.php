@@ -1886,7 +1886,7 @@
     <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mousetrap"
             src="https://static.parastorage.com/services/third-party/mousetrap/1.4.6/mousetrap.min.js"></script>
 </head>
-<body class="" style="">
+<body class="" style="overflow-x: hidden;">
 <div id="SITE_CONTAINER" data-santa-render-status="CLIENT">
     <div data-reactroot="" class="noop" data-santa-version="1.2682.24">
         <div>
