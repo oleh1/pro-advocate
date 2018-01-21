@@ -1325,7 +1325,7 @@
         }
 
         body {
-            overflow-x: auto;
+            overflow-x: hidden;
             overflow-y: scroll
         }
 
