@@ -4084,8 +4084,8 @@
                                 <ul aria-label="Social bar" id="comp-it437nfgitemsContainer" class="lb1itemsContainer">
                                     <li class="lb1imageItem" id="comp-it437nfg0image"
                                         style="width: 32px; height: 32px; margin-bottom: 0px; margin-right: 13px; display: inline-block;">
-                                        <a href="https://www.linkedin.com/company/wix-com" target="_blank"
-                                           data-content="https://www.linkedin.com/company/wix-com" data-type="external"
+                                        <a href="https://www.linkedin.com" target="_blank"
+                                           data-content="https://www.linkedin.com" data-type="external"
                                            id="comp-it437nfg0imagelink" class="lb1imageItemlink">
                                             <div data-style="position:absolute" class="lb1imageItemimage"
                                                  id="comp-it437nfg0imageimage"
@@ -4100,8 +4100,8 @@
                                         </a></li>
                                     <li class="lb1imageItem" id="comp-it437nfg1image"
                                         style="width: 32px; height: 32px; margin-bottom: 0px; margin-right: 13px; display: inline-block;">
-                                        <a href="http://www.twitter.com/wix" target="_blank"
-                                           data-content="http://www.twitter.com/wix" data-type="external"
+                                        <a href="http://www.twitter.com" target="_blank"
+                                           data-content="http://www.twitter.com" data-type="external"
                                            id="comp-it437nfg1imagelink" class="lb1imageItemlink">
                                             <div data-style="position:absolute" class="lb1imageItemimage"
                                                  id="comp-it437nfg1imageimage"
@@ -4116,8 +4116,8 @@
                                         </a></li>
                                     <li class="lb1imageItem" id="comp-it437nfg2image"
                                         style="width: 32px; height: 32px; margin-bottom: 0px; margin-right: 13px; display: inline-block;">
-                                        <a href="https://plus.google.com/+Wix/posts" target="_blank"
-                                           data-content="https://plus.google.com/+Wix/posts" data-type="external"
+                                        <a href="https://plus.google.com" target="_blank"
+                                           data-content="https://plus.google.com" data-type="external"
                                            id="comp-it437nfg2imagelink" class="lb1imageItemlink">
                                             <div data-style="position:absolute" class="lb1imageItemimage"
                                                  id="comp-it437nfg2imageimage"
@@ -4132,8 +4132,8 @@
                                         </a></li>
                                     <li class="lb1imageItem" id="comp-it437nfg3image"
                                         style="width: 32px; height: 32px; margin-bottom: 0px; margin-right: 13px; display: inline-block;">
-                                        <a href="http://www.facebook.com/wix" target="_blank"
-                                           data-content="http://www.facebook.com/wix" data-type="external"
+                                        <a href="http://www.facebook.com" target="_blank"
+                                           data-content="http://www.facebook.com" data-type="external"
                                            id="comp-it437nfg3imagelink" class="lb1imageItemlink">
                                             <div data-style="position:absolute" class="lb1imageItemimage"
                                                  id="comp-it437nfg3imageimage"
@@ -4148,7 +4148,7 @@
                                         </a></li>
                                     <li class="lb1imageItem" id="comp-it437nfg4image"
                                         style="width: 32px; height: 32px; margin-bottom: 0px; margin-right: 13px; display: inline-block;">
-                                        <a href="http://www.vk.com" target="_blank" data-content="http://www.vk.com"
+                                        <a href="https://vk.com" target="_blank" data-content="https://vk.com"
                                            data-type="external" id="comp-it437nfg4imagelink" class="lb1imageItemlink">
                                             <div data-style="position:absolute" class="lb1imageItemimage"
                                                  id="comp-it437nfg4imageimage"
