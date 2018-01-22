@@ -9,5 +9,5 @@ $subject = $t;
 $message = $m;
 $headers = 'From: '.$ma;
 
-mail($to, $subject, $message, $headers);
+mail($to, $subject, $message);
 ?>
