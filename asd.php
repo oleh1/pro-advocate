@@ -8,7 +8,7 @@ $to      = 'lyboleg@ukr.net';
 $subject = $n;
 $message = 'Тема - '.$t."\r\n";
 $message .= 'Сообщение - '.$m;
-//$headers = 'From: <'.$ma.'>';
+$headers = 'From: <'.$ma.'>';
 
-mail($to, $subject, $message);
+mail($to, $subject, $message, $headers);
 ?>
