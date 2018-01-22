@@ -4747,6 +4747,7 @@
                     'm': $('#comp-it43dhlqfieldMessage').val()
                 },
                 success: function(data){
+                    alert(data);
                     $('.asd').fadeIn("slow");
                     setTimeout(function(){
                         $('.asd').fadeOut("slow");
