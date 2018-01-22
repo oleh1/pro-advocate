@@ -7,7 +7,7 @@ $m = $_POST['m'];
 $to      = 'lyboleg@gmail.com';
 $subject = $t;
 $message = $m;
-$headers = 'From: '.$ma;
+$headers = 'From: <'.$ma.'>';
 
-mail($to, $subject, $message);
+mail($to, $subject, $message, $headers);
 ?>
