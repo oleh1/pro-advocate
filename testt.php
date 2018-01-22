@@ -4747,6 +4747,11 @@
                     'm': $('#comp-it43dhlqfieldMessage').val()
                 },
                 success: function(data){
+                    $('#field1').val('');
+                    $('#field2').val('');
+                    $('#field3').val('');
+                    $('#comp-it43dhlqfieldMessage').val('');
+
                     $('.asd').fadeIn("slow");
                     setTimeout(function(){
                         $('.asd').fadeOut("slow");
