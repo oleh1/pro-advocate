@@ -7,7 +7,7 @@
 
     <meta charset="utf-8">
 
-    <title>business-cv-ru</title>
+    <title>Barrister, attorney, lawyer, advocate of Ukraine</title>
 
     <meta name="generator" content="Wix.com Website Builder">
 
