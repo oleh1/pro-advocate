@@ -2,6 +2,8 @@
 <head>
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 
+    <script src="jquery-3.3.1.min.js"></script>
+
 
     <meta charset="utf-8">
 
@@ -3638,12 +3640,12 @@
                     min-height: 128px;
                 }
 
-                .cf1submit {
+                .cf1submit1 {
                     color: #2E4975;
                     font: normal normal normal 17px/1.4em 'open sans', sans-serif;
                 }
 
-                .cf1submit:hover {
+                .cf1submit1:hover {
                     cursor: pointer;
                 }
 
@@ -4647,9 +4649,9 @@
                                                                               class="cf1fieldMessage"
                                                                               data-aid="messageField"
                                                                               id="comp-it43dhlqfieldMessage"></textarea>
-                                                                    <button type="submit" id="comp-it43dhlqsubmit"
-                                                                            class="cf1submit">Send
-                                                                    </button>
+                                                                    <div id="comp-it43dhlqsubmit1"
+                                                                            class="cf1submit1">Send
+                                                                    </div>
                                                                     <div aria-live="polite"
                                                                          class="cf1_success cf1notifications"
                                                                          id="comp-it43dhlqnotifications"></div>
@@ -4729,6 +4731,35 @@
     } catch (e) {
     }</script>
 
+
+<script>
+    jQuery(document).ready(function ($) {
+
+        $('body').on('click', '#comp-it43dhlqsubmit1', function () {
+
+            $.ajax({
+                type: 'POST',
+                url: 'asd.php',
+                data: {
+                    'n': $('#field1').val(),
+                    'ma': $('#field2').val(),
+                    't': $('#field3').val(),
+                    'm': $('#comp-it43dhlqfieldMessage').val()
+                },
+                success: function(data){
+                    $('.asd').fadeIn("slow");
+                    setTimeout(function(){
+                        $('.asd').fadeOut("slow");
+                    }, 3000);
+                }
+            });
+
+        });
+
+    });
+</script>
+
+<div class="asd" style="font-size:  34px;position: fixed;top: 50%;left: 50%;color:  green;margin: 0 0 0 -234px;display: none;">Ваше сообщение отправлено</div>
 
 </body>
 </html>
