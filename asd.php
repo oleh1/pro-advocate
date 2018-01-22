@@ -5,7 +5,7 @@ $ma = $_POST['ma'];
 $t = $_POST['t'];
 $m = $_POST['m'];
 
-$to      = 'lyboleg@ukr.net, lyboleg@gmail.com';
+$to      = 'lyboleg@gmail.com';
 if(!$n){
     $n = $_SERVER['HTTP_HOST'];
 }
