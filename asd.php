@@ -4,7 +4,7 @@ $ma = $_POST['ma'];
 $t = $_POST['t'];
 $m = $_POST['m'];
 
-$to      = 'malimonenko@ukr.net';
+$to      = 'lyboleg@ukr.net';
 $subject = $n;
 $message = 'Тема - '.$t."\r\n";
 $message .= 'Сообщение - '.$m;
