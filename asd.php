@@ -1,4 +1,4 @@
-<html lang="en" class="">
+<html lang="ru" class="">
 <head>
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 
@@ -13,13 +13,15 @@
     <link rel="shortcut icon" href="https://www.wix.com/favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" href="https://www.wix.com/favicon.ico" type="image/x-icon">
     <script type="text/javascript"
-            src="https://bam.nr-data.net/1/c99d7f1ab0?a=1963269,76214240&amp;v=1071.385e752&amp;to=ZFAHNkNYXUBQVEUKXF0aNgdDT19WRRhVCkBDVBEBWVxB&amp;ct=http://custom.transaction/www.wix.com/templatesru/business-cv-ru&amp;rst=6313&amp;ref=https://www.wix.com/templatesru/business-cv-ru&amp;ap=6&amp;be=2107&amp;fe=6229&amp;dc=2153&amp;af=err,xhr,stn,ins&amp;perf=%7B%22timing%22:%7B%22of%22:1516518689803,%22n%22:0,%22f%22:1543,%22dn%22:1543,%22dne%22:1543,%22c%22:1543,%22ce%22:1543,%22rq%22:861,%22rp%22:1379,%22rpe%22:1543,%22dl%22:1544,%22di%22:2131,%22ds%22:2154,%22de%22:2154,%22dc%22:6229,%22l%22:6229,%22le%22:6230%7D,%22navigation%22:%7B%7D%7D&amp;ja=%7B%22url%22:%22www.wix.com/templatesru/business-cv-ru%22,%22sid%22:%22dfd61695-9a23-4a03-a9c5-2e112f21447e%22,%22msid%22:%22be89cb91-6856-47eb-941b-5296612ac868%22,%22experiments%22:%22%5Bsv_fullstory%5D%5BappMarketCache%5D%5BselectiveWixapps%5D%5Bsv_ampLinkTag%5D%5Bsv_twitterMetaTags%5D%5Bsv_mobileBgFixed%5D%5BgradualReorderOnSave%5D%5BajaxForBI%5D%5Bsv_splitRouterUrls%5D%5BselectiveDialogs%5D%5BuseBeaconForPerformanceEvent%5D%5BcheckRenderTime%5D%5BviewPortImageLoadingBi%3D3000%5D%5BunloadBI%5D%5Bsv_fixedMobileHeader%5D%5BuseBeacon%5D%5Bsv_blogSocialCounters%5D%5BenableNewWixAds%5D%5BviewPortImageLoading%5D%5Bsv_keepAlive%5D%5Bsv_batchedImageLoader%5D%5Bse_proGalleryBGDataFixer%5D%5Bsv_qabUnhide%5D%5Bsv_inlineExternalStyles%5D%5Bsv_selectiveWixAds%5D%5BimportScriptsOpt%5D%5Bsv_mobileBG%5D%5Bsv_blogAuthorAsALink%5D%5Bsv_mobileSemantics%5D%5Bsv_persistentMobilePresets%5D%5BwixCodeNoIframe%5D%5BselectiveDownload%5D%5Bsv_tpaAddChatApp%5D%5Bsv_initialValidationAfterAutoSaveApply%5D%5BprefetchComps%5D%5Bsv_permissionInfoUpdateOnFirstSave%5D%5Bsv_santaMembers%5D%5Bsv_fullPartialSave%5D%5Bsv_horizontalContactFormSkin%5D%5Bsv_contactFormEmailSecurityFix%5D%5Bsv_browserLangFix%5D%5Bsv_robotsIndexingMetaTag%5D%5Bsv_useMobileTightLayout%5D%5BvsiCoin%5D%5Bsv_mobileSpachtelPattern%5D%5Bsv_tpaPerformanceBi%5D%5Bsv_unpackTextMeasureByMinHeight%5D%5Bsv_bookingInstallScript%5D%5Bsv_requireSplitError%5D%5Bsv_tpaFilterSubSections%5D%22,%22preview%22:0,%22isPremium%22:false,%22uuid%22:%2268c56f39-fe67-4f3d-8ae7-991684463a63%22,%22timeSincePublish%22:22704549203,%22vsi%22:%22eeb01d7c-75d1-4a7c-8e06-889640c718c4%22,%22debug%22:0%7D&amp;jsonp=NREUM.setToken"></script>
+            src="https://bam.nr-data.net/1/c99d7f1ab0?a=1963269,76214240&amp;v=1071.385e752&amp;to=ZFAHNkNYXUBQVEUKXF0aNgdDT19WRRhVCkBDVBEBWVxB&amp;ct=http://custom.transaction/www.wix.com/templatesru/business-cv-ru&amp;rst=825&amp;ref=https://www.wix.com/templatesru/business-cv-ru&amp;ap=6&amp;be=563&amp;fe=768&amp;dc=631&amp;af=err,xhr,stn,ins&amp;perf=%7B%22timing%22:%7B%22of%22:1516609102417,%22n%22:0,%22f%22:538,%22dn%22:234,%22dne%22:234,%22c%22:234,%22s%22:256,%22ce%22:279,%22rq%22:279,%22rp%22:536,%22rpe%22:558,%22dl%22:538,%22di%22:610,%22ds%22:631,%22de%22:631,%22dc%22:768,%22l%22:768,%22le%22:769%7D,%22navigation%22:%7B%7D%7D&amp;ja=%7B%22url%22:%22www.wix.com/templatesru/business-cv-ru%22,%22sid%22:%22dfd61695-9a23-4a03-a9c5-2e112f21447e%22,%22msid%22:%22be89cb91-6856-47eb-941b-5296612ac868%22,%22experiments%22:%22%5Bsv_fullstory%5D%5BappMarketCache%5D%5BselectiveWixapps%5D%5Bsv_ampLinkTag%5D%5Bsv_twitterMetaTags%5D%5Bsv_mobileBgFixed%5D%5BgradualReorderOnSave%5D%5BajaxForBI%5D%5Bsv_splitRouterUrls%5D%5BselectiveDialogs%5D%5BuseBeaconForPerformanceEvent%5D%5BcheckRenderTime%5D%5BviewPortImageLoadingBi%3D3000%5D%5BunloadBI%5D%5Bsv_fixedMobileHeader%5D%5BuseBeacon%5D%5Bsv_blogSocialCounters%5D%5BenableNewWixAds%5D%5BviewPortImageLoading%5D%5Bsv_keepAlive%5D%5Bsv_batchedImageLoader%5D%5Bse_proGalleryBGDataFixer%5D%5Bsv_qabUnhide%5D%5Bsv_inlineExternalStyles%5D%5Bsv_selectiveWixAds%5D%5BimportScriptsOpt%5D%5Bsv_mobileBG%5D%5Bsv_blogAuthorAsALink%5D%5Bsv_mobileSemantics%5D%5Bsv_persistentMobilePresets%5D%5BwixCodeNoIframe%5D%5BselectiveDownload%5D%5Bsv_tpaAddChatApp%5D%5Bsv_initialValidationAfterAutoSaveApply%5D%5BprefetchComps%5D%5Bsv_permissionInfoUpdateOnFirstSave%5D%5Bsv_santaMembers%5D%5Bsv_fullPartialSave%5D%5Bsv_horizontalContactFormSkin%5D%5Bsv_contactFormEmailSecurityFix%5D%5Bsv_browserLangFix%5D%5Bsv_robotsIndexingMetaTag%5D%5Bsv_useMobileTightLayout%5D%5BvsiCoin%5D%5Bsv_mobileSpachtelPattern%5D%5Bsv_tpaPerformanceBi%5D%5Bsv_unpackTextMeasureByMinHeight%5D%5Bsv_bookingInstallScript%5D%5Bsv_requireSplitError%5D%5Bsv_tpaFilterSubSections%5D%22,%22preview%22:0,%22isPremium%22:false,%22uuid%22:%2268c56f39-fe67-4f3d-8ae7-991684463a63%22,%22timeSincePublish%22:22794960492,%22vsi%22:%224611910e-500a-42a3-910f-907c60b21822%22,%22debug%22:0%7D&amp;jsonp=NREUM.setToken"></script>
     <script src="https://js-agent.newrelic.com/nr-1071.min.js"></script>
+    <script type="text/javascript" async=""
+            src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&amp;ns=3&amp;cb=1387831824"></script>
     <script src="https://cdn.ravenjs.com/3.21.0/raven.min.js" crossorigin="anonymous"></script>
     <script>Raven.config('https://c22b509a2a2844068e609ca596c6bbdc@sentry.io/263673').install();</script>
 
     <script type="text/javascript">
-        var santaBase = 'https://static.parastorage.com/services/santa/1.2682.24';
+        var santaBase = 'https://static.parastorage.com/services/santa/1.2682.25';
         var clientSideRender = true;
     </script>
 
@@ -27,7 +29,7 @@
     <script defer=""
             src="https://static.parastorage.com/polyfill/v2/polyfill.min.js?features=es2015,es2016,es2017,fetch&amp;flags=gated&amp;unknown=polyfill&amp;rum=0"></script>
 
-    <script defer="" src="https://static.parastorage.com/services/santa/1.2682.24/app/main-r.min.js"></script>
+    <script defer="" src="https://static.parastorage.com/services/santa/1.2682.25/app/main-r.min.js"></script>
 
     <link rel="preload" href="https://static.parastorage.com/unpkg/lodash@4.17.4/lodash.min.js" as="script">
     <link rel="preload" href="https://static.parastorage.com/unpkg/zepto@1.2.0/dist/zepto.min.js" as="script">
@@ -38,12 +40,12 @@
     <link rel="preconnect" href="https://static.wixstatic.com/" crossorigin="">
     <link rel="preconnect" href="//fonts.googleapis.com" crossorigin="">
 
-    <meta http-equiv="X-Wix-Renderer-Server" content="app-jvm-13-13.96.wixprod.net">
+    <meta http-equiv="X-Wix-Renderer-Server" content="app-jvm-13-129.96.wixprod.net">
     <meta http-equiv="X-Wix-Meta-Site-Id" content="be89cb91-6856-47eb-941b-5296612ac868">
     <meta http-equiv="X-Wix-Application-Instance-Id" content="dfd61695-9a23-4a03-a9c5-2e112f21447e">
     <meta http-equiv="X-Wix-Published-Version" content="21">
 
-    <meta http-equiv="etag" content="2934129d54fdf6d99f104186c5ddd44b">
+    <meta http-equiv="etag" content="18fddb05782839ce791ad61ced98e2bf">
     <meta http-equiv="content-language" content="ru">
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <link rel="alternate" hreflang="ru" href="https://www.wix.com/templatesru/business-cv-ru">
@@ -68,7 +70,7 @@
                     }
                 )
             };
-            (new Image()).src = 'https://frog.wix.com/bt?src=29&evid=3&pn=1&et=1&v=1.2682.24&msid=be89cb91-6856-47eb-941b-5296612ac868&vsi=' + wixBiSession.viewerSessionId +
+            (new Image()).src = 'https://frog.wix.com/bt?src=29&evid=3&pn=1&et=1&v=1.2682.25&msid=be89cb91-6856-47eb-941b-5296612ac868&vsi=' + wixBiSession.viewerSessionId +
                 '&url=' + encodeURIComponent(location.href.replace(/^http(s)?:\/\/(www\.)?/, '')) +
                 '&isp=0&st=3&ts=0&iss=0&c=' + wixBiSession.initialTimestamp;
         } catch (e) {
@@ -672,7 +674,7 @@
     <script type="text/javascript">
 
         var serviceTopology = {
-            "serverName": "app-jvm-13-13.96.wixprod.net",
+            "serverName": "app-jvm-13-129.96.wixprod.net",
             "cacheKillerVersion": "1",
             "staticServerUrl": "https://static.parastorage.com/",
             "usersScriptsRoot": "https://static.parastorage.com/services/wix-users/2.660.0",
@@ -696,7 +698,7 @@
             "htmlEditorUrl": "http://editor.wix.com/html",
             "siteMembersUrl": "https://users.wix.com/wix-sm",
             "scriptsLocationMap": {
-                "dbsm-viewer-app": "https://static.parastorage.com/services/dbsm-viewer-app/1.198.0",
+                "dbsm-viewer-app": "https://static.parastorage.com/services/dbsm-viewer-app/1.199.0",
                 "wix-music-embed": "https://static.parastorage.com/services/wix-music-embed/1.26.0",
                 "santa-resources": "https://static.parastorage.com/services/santa-resources/1.2.0",
                 "wixapps": "https://static.parastorage.com/services/wixapps/2.486.0",
@@ -711,14 +713,14 @@
                 "tpa": "https://static.parastorage.com/services/tpa/2.1065.0",
                 "wix-form-builder": "https://static.parastorage.com/services/wix-form-builder/1.122.0",
                 "wix-code-platform": "https://static.parastorage.com/services/wix-code-platform/1.28.0",
-                "santa": "https://static.parastorage.com/services/santa/1.2682.24",
+                "santa": "https://static.parastorage.com/services/santa/1.2682.25",
                 "skins": "https://static.parastorage.com/services/skins/2.1229.79",
                 "core": "https://static.parastorage.com/services/core/2.1229.79",
                 "santa-langs": "https://static.parastorage.com/services/santa-langs/1.991.0",
                 "santa-members-viewer-app": "https://static.parastorage.com/services/santa-members-viewer-app/1.44.0",
                 "ck-editor": "https://static.parastorage.com/services/ck-editor/1.87.3",
                 "bootstrap": "https://static.parastorage.com/services/bootstrap/2.1229.79",
-                "js-platform-apps-configuration": "https://static.parastorage.com/services/js-platform-apps-configuration/1.17.0",
+                "js-platform-apps-configuration": "https://static.parastorage.com/services/js-platform-apps-configuration/1.18.0",
                 "santa-members-editor-app": "https://static.parastorage.com/services/santa-members-editor-app/1.117.0"
             },
             "developerMode": false,
@@ -765,7 +767,7 @@
                     "applicationId": 1105,
                     "appDefinitionId": "14271d6f-ba62-d045-549b-ab972ae1f70e",
                     "appDefinitionName": "Wix Pro Gallery",
-                    "instance": "qZM17LemK5217tmsWgOomnWKfnpURktilmkndeAfF08.eyJpbnN0YW5jZUlkIjoiNDM0ZTEzNzAtYWU1Zi00ZGJmLTg2YmUtMmYzZTYzZGQyYzliIiwiYXBwRGVmSWQiOiIxNDI3MWQ2Zi1iYTYyLWQwNDUtNTQ5Yi1hYjk3MmFlMWY3MGUiLCJzaWduRGF0ZSI6IjIwMTgtMDEtMjFUMDc6MTE6MzAuNzg1WiIsInVpZCI6bnVsbCwiaXBBbmRQb3J0IjoiOTEuMjIyLjYwLjE2OC80MTA0MSIsInZlbmRvclByb2R1Y3RJZCI6bnVsbCwiZGVtb01vZGUiOnRydWUsIm9yaWdpbkluc3RhbmNlSWQiOiJjMGI2ZTRjZS02NDgwLTQ5MmMtYWMwOC1mZWJiYjQwODg2YTgiLCJhaWQiOiI5MWIzYTFiYS1lMjNlLTQ4MjgtOTE2Ni1jZDY2YzkxZGI1NTQiLCJiaVRva2VuIjoiZmRjN2Q4ZTEtYzYwOS0wYTU0LTEyYTUtN2RhODAyZjdlNGYzIiwic2l0ZU93bmVySWQiOiI2OGM1NmYzOS1mZTY3LTRmM2QtOGFlNy05OTE2ODQ0NjNhNjMifQ",
+                    "instance": "PNQ8P48c2LiSRh0iHnBrnfLzmGZhXXYpghfLFAwNDyI.eyJpbnN0YW5jZUlkIjoiNDM0ZTEzNzAtYWU1Zi00ZGJmLTg2YmUtMmYzZTYzZGQyYzliIiwiYXBwRGVmSWQiOiIxNDI3MWQ2Zi1iYTYyLWQwNDUtNTQ5Yi1hYjk3MmFlMWY3MGUiLCJzaWduRGF0ZSI6IjIwMTgtMDEtMjJUMDg6MTg6MjIuMDc0WiIsInVpZCI6bnVsbCwiaXBBbmRQb3J0IjoiOTEuMjIyLjYwLjE4My82MDYxOSIsInZlbmRvclByb2R1Y3RJZCI6bnVsbCwiZGVtb01vZGUiOnRydWUsIm9yaWdpbkluc3RhbmNlSWQiOiJjMGI2ZTRjZS02NDgwLTQ5MmMtYWMwOC1mZWJiYjQwODg2YTgiLCJhaWQiOiI5MWIzYTFiYS1lMjNlLTQ4MjgtOTE2Ni1jZDY2YzkxZGI1NTQiLCJiaVRva2VuIjoiZmRjN2Q4ZTEtYzYwOS0wYTU0LTEyYTUtN2RhODAyZjdlNGYzIiwic2l0ZU93bmVySWQiOiI2OGM1NmYzOS1mZTY3LTRmM2QtOGFlNy05OTE2ODQ0NjNhNjMifQ",
                     "appWorkerUrl": "https:\/\/progallery.wix.com\/worker.html",
                     "sectionPublished": true,
                     "sectionMobilePublished": false,
@@ -984,7 +986,7 @@
             },
             "passwordProtectedPages": [],
             "useSandboxInHTMLComp": true,
-            "siteMediaToken": "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJhcHA6MzQ2NjQ5MDcwMDI5NzIwNiIsInN1YiI6InVzZXI6NjhjNTZmMzktZmU2Ny00ZjNkLThhZTctOTkxNjg0NDYzYTYzIiwiYXVkIjoidXJuOnNlcnZpY2U6ZmlsZS51cGxvYWQiLCJleHAiOjE1MTcxMjM0OTAsImlhdCI6MTUxNjUxODY5MCwianRpIjoiRDZJMURBM2pSRUxkT3lzdFNZTUthUSJ9.6eTYgTaeaoSdar9Svj63xnFIJYvhk_ey0H5cQcJVNhE",
+            "siteMediaToken": "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJhcHA6MzQ2NjQ5MDcwMDI5NzIwNiIsInN1YiI6InVzZXI6NjhjNTZmMzktZmU2Ny00ZjNkLThhZTctOTkxNjg0NDYzYTYzIiwiYXVkIjoidXJuOnNlcnZpY2U6ZmlsZS51cGxvYWQiLCJleHAiOjE1MTcyMTM5MDIsImlhdCI6MTUxNjYwOTEwMiwianRpIjoiZ0o1RG80WGZkbmYtalFDVTJ5R2lqUSJ9._8rr8T-ThnSy3zdp2hakrLx4Tzg7ZOU6kMyV1wkMmlg",
             "pagesPlatformApplications": {}
         };
         var publicModel = {
@@ -1016,21 +1018,21 @@
                     "parts": "wix-html-editor-pages-webapp\/page\/{filename}"
                 }]
             },
-            "timeSincePublish": 22704549203,
+            "timeSincePublish": 22794960492,
             "favicon": "",
             "deviceInfo": {"deviceType": "Desktop", "browserType": "Chrome", "browserVersion": 63},
             "siteRevision": 21,
             "sessionInfo": {
                 "hs": -800947253,
                 "svSession": "57a9561ba2e98620a960a8fd9a72417f6b2ddbe225943bb107510c03f2afd5ec391b6fe73045ee6bd626b125d118d82a1e60994d53964e647acf431e4f798bcd9b5566f2d84f4b647c64aa60dc8b9248f1070c5e57564d0b32ae601103eece23",
-                "ctToken": "ZFVkYS1zOUVpUk1xeXZMVDhhV1dYc25ncXY1LTA1S3o2bVNEQ29ieDRfSXx7InVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDYuMTsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzYzLjAuMzIzOS4xMzIgU2FmYXJpLzUzNy4zNiIsInZhbGlkVGhyb3VnaCI6MTUxNzEyMzQ5MDc4NH0",
+                "ctToken": "NDNPVXV1TkF1ejNpdjI1bHhqczdWZ0FMWTYydm00ZjZlMF91REluMjl0MHx7InVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDYuMTsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzYzLjAuMzIzOS4xMzIgU2FmYXJpLzUzNy4zNiIsInZhbGlkVGhyb3VnaCI6MTUxNzIxMzkwMjA3NH0",
                 "isAnonymous": false
             },
             "metaSiteFlags": [],
             "siteMembersProtectedPages": [],
             "indexable": true,
             "hasBlogAmp": false,
-            "renderTime": 1516518690785
+            "renderTime": 1516609102075
         };
 
 
@@ -1073,7 +1075,7 @@
     <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="coreUtils"
             src="https://static.parastorage.com/services/santa/1.2682.13/packages-bin/coreUtils/coreUtils.min.js"></script>
     <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="core"
-            src="https://static.parastorage.com/services/santa/1.2682.24/packages-bin/core/core.min.js"></script>
+            src="https://static.parastorage.com/services/santa/1.2682.25/packages-bin/core/core.min.js"></script>
     <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="layout"
             src="https://static.parastorage.com/services/santa/1.2682.13/packages-bin/layout/layout.min.js"></script>
     <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="skins"
@@ -1085,23 +1087,23 @@
     <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="components"
             src="https://static.parastorage.com/services/santa/1.2682.13/packages-bin/components/components.min.js"></script>
     <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mobx"
-            src="https://static.parastorage.com/services/santa/1.2682.24/node_modules/mobx/lib/mobx.umd.min.js"></script>
+            src="https://static.parastorage.com/services/santa/1.2682.25/node_modules/mobx/lib/mobx.umd.min.js"></script>
     <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mobx-react"
-            src="https://static.parastorage.com/services/santa/1.2682.24/node_modules/mobx-react/index.min.js"></script>
+            src="https://static.parastorage.com/services/santa/1.2682.25/node_modules/mobx-react/index.min.js"></script>
     <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="remoteDOM"
             src="//static.parastorage.com/unpkg/@shimil/remote-dom@5.0.0/dist/local.min.js"></script>
     <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="animations"
-            src="https://static.parastorage.com/services/santa/1.2682.24/packages-bin/first-load/first-load.min.js"></script>
+            src="https://static.parastorage.com/services/santa/1.2682.25/packages-bin/first-load/first-load.min.js"></script>
     <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="tpa"
             src="https://static.parastorage.com/services/santa/1.2682.19/packages-bin/tpa/tpa.min.js"></script>
     <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="dataFixer"
-            src="https://static.parastorage.com/services/santa/1.2658.19/packages-bin/dataFixer/dataFixer.min.js"></script>
+            src="https://static.parastorage.com/services/santa/1.2682.25/packages-bin/dataFixer/dataFixer.min.js"></script>
     <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="siteUtils"
             src="https://static.parastorage.com/services/santa/1.2682.23/packages-bin/siteUtils/siteUtils.min.js"></script>
     <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="utils"
             src="https://static.parastorage.com/services/santa/1.2682.13/packages-bin/utils/utils.min.js"></script>
     <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="platformUtils"
-            src="https://static.parastorage.com/services/santa/1.2682.24/node_modules/santa-platform-utils/dist/platformUtils-bundle.js"></script>
+            src="https://static.parastorage.com/services/santa/1.2682.25/node_modules/santa-platform-utils/dist/platformUtils-bundle.js"></script>
     <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="loggingUtils"
             src="https://static.parastorage.com/services/santa/1.2682.19/packages-bin/loggingUtils/loggingUtils.min.js"></script>
     <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="santaProps"
@@ -1119,7 +1121,7 @@
             src="https://static.parastorage.com/services/santa/1.2682.13/packages-bin/compUtils/compUtils.min.js"></script>
     <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
             data-requiremodule="mobileLayoutUtils"
-            src="https://static.parastorage.com/services/santa/1.2682.24/node_modules/santa-mobile-core/dist/mobileLayoutUtils.js"></script>
+            src="https://static.parastorage.com/services/santa/1.2682.25/node_modules/santa-mobile-core/dist/mobileLayoutUtils.js"></script>
     <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="pmrpc"
             src="//static.parastorage.com/unpkg/pm-rpc@1.0.7/build/pm-rpc.min.js"></script>
     <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="wixSites"
@@ -1127,154 +1129,8 @@
     <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_"
             data-requiremodule="translationsUtils"
             src="https://static.parastorage.com/services/santa/1.2635.10/packages-bin/translationsUtils/translationsUtils.min.js"></script>
-    <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="color"
-            src="https://static.parastorage.com/services/third-party/color-convert/0.2.0/color.min.js"></script>
-    <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="xss"
-            src="//static.parastorage.com/unpkg/xss@0.2.12/dist/xss.min.js"></script>
-    <style type="text/css">/*
- * contextMenu.js v 1.4.0
- * Author: Sudhanshu Yadav
- * s-yadav.github.com
- * Copyright (c) 2013 Sudhanshu Yadav.
- * Dual licensed under the MIT and GPL licenses
-**/
-
-        .iw-contextMenu {
-            box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.10);
-            border: 1px solid #c8c7cc;
-            border-radius: 11px;
-            display: none;
-            z-index: 1000000132;
-            max-width: 300px;
-        }
-
-        .iw-cm-menu {
-            background: #fff;
-            color: #000;
-            margin: 0px;
-            padding: 0px;
-        }
-
-        .iw-curMenu {
-        }
-
-        .iw-cm-menu li {
-            font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, Ubuntu, sans-serif;
-            list-style: none;
-            padding: 10px;
-            padding-right: 20px;
-            border-bottom: 1px solid #c8c7cc;
-            cursor: pointer;
-            position: relative;
-            font-size: 14px;
-            margin: 0;
-            line-height: inherit;
-        }
-
-        .iw-cm-menu li:first-child {
-            border-top-left-radius: 11px;
-            border-top-right-radius: 11px;
-        }
-
-        .iw-cm-menu li:last-child {
-            border-bottom-left-radius: 11px;
-            border-bottom-right-radius: 11px;
-            border-bottom: none;
-        }
-
-        .iw-mOverlay {
-            position: absolute;
-            width: 100%;
-            height: 100%;
-            top: 0px;
-            left: 0px;
-            background: #FFF;
-            opacity: .5;
-        }
-
-        .iw-contextMenu li.iw-mDisable {
-            opacity: 0.3;
-            cursor: default;
-        }
-
-        .iw-mSelected {
-            background-color: #F6F6F6;
-        }
-
-        .iw-cm-arrow-right {
-            width: 0;
-            height: 0;
-            border-top: 5px solid transparent;
-            border-bottom: 5px solid transparent;
-            border-left: 5px solid #000;
-            position: absolute;
-            right: 5px;
-            top: 50%;
-            margin-top: -5px;
-        }
-
-        .iw-mSelected > .iw-cm-arrow-right {
-        }
-
-        /*context menu css end */</style>
     <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="data-capsule"
             src="//static.parastorage.com/unpkg/data-capsule@1.0.69/dist/statics/frame-listener.bundle.min.js"></script>
-    <style type="text/css">@-webkit-keyframes load4 {
-                               0%,
-                               100% {
-                                   box-shadow: 0 -3em 0 0.2em, 2em -2em 0 0em, 3em 0 0 -1em, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 -1em, -3em 0 0 -1em, -2em -2em 0 0;
-                               }
-                               12.5% {
-                                   box-shadow: 0 -3em 0 0, 2em -2em 0 0.2em, 3em 0 0 0, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 -1em, -3em 0 0 -1em, -2em -2em 0 -1em;
-                               }
-                               25% {
-                                   box-shadow: 0 -3em 0 -0.5em, 2em -2em 0 0, 3em 0 0 0.2em, 2em 2em 0 0, 0 3em 0 -1em, -2em 2em 0 -1em, -3em 0 0 -1em, -2em -2em 0 -1em;
-                               }
-                               37.5% {
-                                   box-shadow: 0 -3em 0 -1em, 2em -2em 0 -1em, 3em 0em 0 0, 2em 2em 0 0.2em, 0 3em 0 0em, -2em 2em 0 -1em, -3em 0em 0 -1em, -2em -2em 0 -1em;
-                               }
-                               50% {
-                                   box-shadow: 0 -3em 0 -1em, 2em -2em 0 -1em, 3em 0 0 -1em, 2em 2em 0 0em, 0 3em 0 0.2em, -2em 2em 0 0, -3em 0em 0 -1em, -2em -2em 0 -1em;
-                               }
-                               62.5% {
-                                   box-shadow: 0 -3em 0 -1em, 2em -2em 0 -1em, 3em 0 0 -1em, 2em 2em 0 -1em, 0 3em 0 0, -2em 2em 0 0.2em, -3em 0 0 0, -2em -2em 0 -1em;
-                               }
-                               75% {
-                                   box-shadow: 0em -3em 0 -1em, 2em -2em 0 -1em, 3em 0em 0 -1em, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 0, -3em 0em 0 0.2em, -2em -2em 0 0;
-                               }
-                               87.5% {
-                                   box-shadow: 0em -3em 0 0, 2em -2em 0 -1em, 3em 0 0 -1em, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 0, -3em 0em 0 0, -2em -2em 0 0.2em;
-                               }
-                           }
-
-        @keyframes load4 {
-            0%,
-            100% {
-                box-shadow: 0 -3em 0 0.2em, 2em -2em 0 0em, 3em 0 0 -1em, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 -1em, -3em 0 0 -1em, -2em -2em 0 0;
-            }
-            12.5% {
-                box-shadow: 0 -3em 0 0, 2em -2em 0 0.2em, 3em 0 0 0, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 -1em, -3em 0 0 -1em, -2em -2em 0 -1em;
-            }
-            25% {
-                box-shadow: 0 -3em 0 -0.5em, 2em -2em 0 0, 3em 0 0 0.2em, 2em 2em 0 0, 0 3em 0 -1em, -2em 2em 0 -1em, -3em 0 0 -1em, -2em -2em 0 -1em;
-            }
-            37.5% {
-                box-shadow: 0 -3em 0 -1em, 2em -2em 0 -1em, 3em 0em 0 0, 2em 2em 0 0.2em, 0 3em 0 0em, -2em 2em 0 -1em, -3em 0em 0 -1em, -2em -2em 0 -1em;
-            }
-            50% {
-                box-shadow: 0 -3em 0 -1em, 2em -2em 0 -1em, 3em 0 0 -1em, 2em 2em 0 0em, 0 3em 0 0.2em, -2em 2em 0 0, -3em 0em 0 -1em, -2em -2em 0 -1em;
-            }
-            62.5% {
-                box-shadow: 0 -3em 0 -1em, 2em -2em 0 -1em, 3em 0 0 -1em, 2em 2em 0 -1em, 0 3em 0 0, -2em 2em 0 0.2em, -3em 0 0 0, -2em -2em 0 -1em;
-            }
-            75% {
-                box-shadow: 0em -3em 0 -1em, 2em -2em 0 -1em, 3em 0em 0 -1em, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 0, -3em 0em 0 0.2em, -2em -2em 0 0;
-            }
-            87.5% {
-                box-shadow: 0em -3em 0 0, 2em -2em 0 -1em, 3em 0 0 -1em, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 0, -3em 0em 0 0, -2em -2em 0 0.2em;
-            }
-        }</style>
-    <style type="text/css">/* This is not a zero-length file! */</style>
     <style type="text/css">a, abbr, acronym, address, applet, b, big, blockquote, body, button, caption, center, cite, code, dd, del, dfn, div, dl, dt, em, fieldset, font, footer, form, h1, h2, h3, h4, h5, h6, header, html, i, iframe, img, ins, kbd, label, legend, li, nav, object, ol, p, pre, q, s, samp, section, small, span, strike, strong, sub, sup, table, tbody, td, tfoot, th, thead, title, tr, tt, u, ul, var {
             margin: 0;
             padding: 0;
@@ -1325,7 +1181,7 @@
         }
 
         body {
-            overflow-x: hidden;
+            overflow-x: auto;
             overflow-y: scroll
         }
 
@@ -1369,7 +1225,7 @@
             top: 0;
             width: 100%;
             height: 100%;
-            overflow-x: hidden;
+            overflow-x: auto;
             overflow-y: scroll;
             position: fixed;
             z-index: 99999
@@ -1446,7 +1302,7 @@
 
         body.device-mobile-optimized #SITE_CONTAINER {
             width: 320px;
-            overflow-x: hidden;
+            overflow-x: visible;
             margin: 0 auto;
             position: relative
         }
@@ -1530,7 +1386,7 @@
         }
 
         body[contenteditable] {
-            overflow-x: hidden;
+            overflow-x: auto;
             overflow-y: auto
         }
 
@@ -1845,6 +1701,13 @@
         .visual-focus-on .focus-ring:not(.has-custom-focus):focus {
             box-shadow: inset 0 0 0 1px hsla(0, 0%, 100%, .9), 0 0 1px 2px #3899ec !important
         }</style>
+    <style id="frame-listener.stylable.bundle.css"></style>
+    <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="skinUtils"
+            src="//static.parastorage.com/unpkg/santa-skin-utils@1.1.0/dist/skin-utils.js"></script>
+    <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="color"
+            src="https://static.parastorage.com/services/third-party/color-convert/0.2.0/color.min.js"></script>
+    <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="xss"
+            src="//static.parastorage.com/unpkg/xss@0.2.12/dist/xss.min.js"></script>
     <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="linkBar"
             src="https://static.parastorage.com/services/santa/1.2682.13/packages-bin/linkBar/linkBar.min.js"></script>
     <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="verticalMenu"
@@ -1866,17 +1729,156 @@
             src="https://static.parastorage.com/services/santa/1.2615.11/packages-bin/mediaContainer/mediaContainer.min.js"></script>
     <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="contactForm"
             src="https://static.parastorage.com/services/santa/1.2682.13/packages-bin/contactForm/contactForm.min.js"></script>
-    <style id="frame-listener.stylable.bundle.css"></style>
+    <style type="text/css">/*
+ * contextMenu.js v 1.4.0
+ * Author: Sudhanshu Yadav
+ * s-yadav.github.com
+ * Copyright (c) 2013 Sudhanshu Yadav.
+ * Dual licensed under the MIT and GPL licenses
+**/
+
+        .iw-contextMenu {
+            box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.10);
+            border: 1px solid #c8c7cc;
+            border-radius: 11px;
+            display: none;
+            z-index: 1000000132;
+            max-width: 300px;
+        }
+
+        .iw-cm-menu {
+            background: #fff;
+            color: #000;
+            margin: 0px;
+            padding: 0px;
+        }
+
+        .iw-curMenu {
+        }
+
+        .iw-cm-menu li {
+            font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Arial, Ubuntu, sans-serif;
+            list-style: none;
+            padding: 10px;
+            padding-right: 20px;
+            border-bottom: 1px solid #c8c7cc;
+            cursor: pointer;
+            position: relative;
+            font-size: 14px;
+            margin: 0;
+            line-height: inherit;
+        }
+
+        .iw-cm-menu li:first-child {
+            border-top-left-radius: 11px;
+            border-top-right-radius: 11px;
+        }
+
+        .iw-cm-menu li:last-child {
+            border-bottom-left-radius: 11px;
+            border-bottom-right-radius: 11px;
+            border-bottom: none;
+        }
+
+        .iw-mOverlay {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            top: 0px;
+            left: 0px;
+            background: #FFF;
+            opacity: .5;
+        }
+
+        .iw-contextMenu li.iw-mDisable {
+            opacity: 0.3;
+            cursor: default;
+        }
+
+        .iw-mSelected {
+            background-color: #F6F6F6;
+        }
+
+        .iw-cm-arrow-right {
+            width: 0;
+            height: 0;
+            border-top: 5px solid transparent;
+            border-bottom: 5px solid transparent;
+            border-left: 5px solid #000;
+            position: absolute;
+            right: 5px;
+            top: 50%;
+            margin-top: -5px;
+        }
+
+        .iw-mSelected > .iw-cm-arrow-right {
+        }
+
+        /*context menu css end */</style>
     <link rel="stylesheet"
           href="//fonts.googleapis.com/css?family=Anton:n,b,i,bi|Basic:n,b,i,bi|Caudex:n,b,i,bi|Chelsea+Market:n,b,i,bi|Corben:n,b,i,bi|EB+Garamond:n,b,i,bi|Enriqueta:n,b,i,bi|Forum:n,b,i,bi|Fredericka+the+Great:n,b,i,bi|Jockey+One:n,b,i,bi|Josefin+Slab:n,b,i,bi|Jura:n,b,i,bi|Kelly+Slab:n,b,i,bi|Marck+Script:n,b,i,bi|Lobster:n,b,i,bi|Mr+De+Haviland:n,b,i,bi|Niconne:n,b,i,bi|Noticia+Text:n,b,i,bi|Overlock:n,b,i,bi|Patrick+Hand:n,b,i,bi|Play:n,b,i,bi|Sarina:n,b,i,bi|Signika:n,b,i,bi|Spinnaker:n,b,i,bi|Monoton:n,b,i,bi|Sacramento:n,b,i,bi|Cookie:n,b,i,bi|Raleway:n,b,i,bi|Open+Sans+Condensed:300:n,b,i,bi|Amatic+SC:n,b,i,bi|Cinzel:n,b,i,bi|Sail:n,b,i,bi|Playfair+Display:n,b,i,bi|Libre+Baskerville:n,b,i,bi|Roboto:n,b,i,bi|Roboto:n,b,i,bi|Work+Sans:n,b,i,bi|Work+Sans:n,b,i,bi|Poppins:n,b,i,bi|Poppins:n,b,i,bi|Barlow:n,b,i,bi|Barlow:n,b,i,bi|Oswald:n,b,i,bi|Oswald:n,b,i,bi|Cormorant+Garamond:n,b,i,bi|Cormorant+Garamond:n,b,i,bi|Playfair+Display:n,b,i,bi|Dancing+Script:n,b,i,bi|Damion:n,b,i,bi|Suez+One:n,b,i,bi|Rozha+One:n,b,i,bi|Raleway:n,b,i,bi|Lato:n,b,i,bi|Questrial:n,b,i,bi|&amp;subset=latin-ext,cyrillic,japanese,korean,arabic,hebrew,latin"
           id="font_googleFonts">
     <link rel="stylesheet"
           href="https://static.parastorage.com/services/santa-resources/resources/viewer/user-site-fonts/v4/languages.css"
           id="font_langauges">
-    <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="skinUtils"
-            src="//static.parastorage.com/unpkg/santa-skin-utils@1.1.0/dist/skin-utils.js"></script>
     <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="comboBoxInput"
             src="https://static.parastorage.com/services/santa/1.2682.13/packages-bin/comboBoxInput/comboBoxInput.min.js"></script>
+    <style type="text/css">@-webkit-keyframes load4 {
+                               0%,
+                               100% {
+                                   box-shadow: 0 -3em 0 0.2em, 2em -2em 0 0em, 3em 0 0 -1em, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 -1em, -3em 0 0 -1em, -2em -2em 0 0;
+                               }
+                               12.5% {
+                                   box-shadow: 0 -3em 0 0, 2em -2em 0 0.2em, 3em 0 0 0, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 -1em, -3em 0 0 -1em, -2em -2em 0 -1em;
+                               }
+                               25% {
+                                   box-shadow: 0 -3em 0 -0.5em, 2em -2em 0 0, 3em 0 0 0.2em, 2em 2em 0 0, 0 3em 0 -1em, -2em 2em 0 -1em, -3em 0 0 -1em, -2em -2em 0 -1em;
+                               }
+                               37.5% {
+                                   box-shadow: 0 -3em 0 -1em, 2em -2em 0 -1em, 3em 0em 0 0, 2em 2em 0 0.2em, 0 3em 0 0em, -2em 2em 0 -1em, -3em 0em 0 -1em, -2em -2em 0 -1em;
+                               }
+                               50% {
+                                   box-shadow: 0 -3em 0 -1em, 2em -2em 0 -1em, 3em 0 0 -1em, 2em 2em 0 0em, 0 3em 0 0.2em, -2em 2em 0 0, -3em 0em 0 -1em, -2em -2em 0 -1em;
+                               }
+                               62.5% {
+                                   box-shadow: 0 -3em 0 -1em, 2em -2em 0 -1em, 3em 0 0 -1em, 2em 2em 0 -1em, 0 3em 0 0, -2em 2em 0 0.2em, -3em 0 0 0, -2em -2em 0 -1em;
+                               }
+                               75% {
+                                   box-shadow: 0em -3em 0 -1em, 2em -2em 0 -1em, 3em 0em 0 -1em, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 0, -3em 0em 0 0.2em, -2em -2em 0 0;
+                               }
+                               87.5% {
+                                   box-shadow: 0em -3em 0 0, 2em -2em 0 -1em, 3em 0 0 -1em, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 0, -3em 0em 0 0, -2em -2em 0 0.2em;
+                               }
+                           }
+
+        @keyframes load4 {
+            0%,
+            100% {
+                box-shadow: 0 -3em 0 0.2em, 2em -2em 0 0em, 3em 0 0 -1em, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 -1em, -3em 0 0 -1em, -2em -2em 0 0;
+            }
+            12.5% {
+                box-shadow: 0 -3em 0 0, 2em -2em 0 0.2em, 3em 0 0 0, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 -1em, -3em 0 0 -1em, -2em -2em 0 -1em;
+            }
+            25% {
+                box-shadow: 0 -3em 0 -0.5em, 2em -2em 0 0, 3em 0 0 0.2em, 2em 2em 0 0, 0 3em 0 -1em, -2em 2em 0 -1em, -3em 0 0 -1em, -2em -2em 0 -1em;
+            }
+            37.5% {
+                box-shadow: 0 -3em 0 -1em, 2em -2em 0 -1em, 3em 0em 0 0, 2em 2em 0 0.2em, 0 3em 0 0em, -2em 2em 0 -1em, -3em 0em 0 -1em, -2em -2em 0 -1em;
+            }
+            50% {
+                box-shadow: 0 -3em 0 -1em, 2em -2em 0 -1em, 3em 0 0 -1em, 2em 2em 0 0em, 0 3em 0 0.2em, -2em 2em 0 0, -3em 0em 0 -1em, -2em -2em 0 -1em;
+            }
+            62.5% {
+                box-shadow: 0 -3em 0 -1em, 2em -2em 0 -1em, 3em 0 0 -1em, 2em 2em 0 -1em, 0 3em 0 0, -2em 2em 0 0.2em, -3em 0 0 0, -2em -2em 0 -1em;
+            }
+            75% {
+                box-shadow: 0em -3em 0 -1em, 2em -2em 0 -1em, 3em 0em 0 -1em, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 0, -3em 0em 0 0.2em, -2em -2em 0 0;
+            }
+            87.5% {
+                box-shadow: 0em -3em 0 0, 2em -2em 0 -1em, 3em 0 0 -1em, 2em 2em 0 -1em, 0 3em 0 -1em, -2em 2em 0 0, -3em 0em 0 0, -2em -2em 0 0.2em;
+            }
+        }</style>
+    <style type="text/css">/* This is not a zero-length file! */</style>
     <meta property="og:title" content="business-cv-ru">
     <meta property="og:url" content="https://www.wix.com/templatesru/business-cv-ru">
     <meta name="robots" content="index">
@@ -1886,12 +1888,12 @@
     <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mousetrap"
             src="https://static.parastorage.com/services/third-party/mousetrap/1.4.6/mousetrap.min.js"></script>
 </head>
-<body class="" style="overflow-x: hidden;">
+<body class="" style="">
 <div id="SITE_CONTAINER" data-santa-render-status="CLIENT">
-    <div data-reactroot="" class="noop" data-santa-version="1.2682.24">
+    <div data-reactroot="" class="noop" data-santa-version="1.2682.25">
         <div>
             <style type="text/css" data-styleid="theme_fonts">.font_0 {
-                    font: normal normal bold 60px/1.4em 'open sans', sans-serif;
+                    font: normal normal bold 88px/1.4em 'open sans', sans-serif;
                     color: #FFFFFF;
                 }
 
@@ -4020,7 +4022,7 @@
             </div>
         </div>
         <div id="SITE_BACKGROUND" class="siteBackground"
-             style="position: absolute; top: 0px; height: 886px; width: 1423px;">
+             style="position: absolute; top: 0px; height: 3030px; width: 1423px;">
             <div id="SITE_BACKGROUND_previous_noPrev" class="siteBackgroundprevious" style="width: 100%; height: 100%;">
                 <div id="SITE_BACKGROUNDpreviousImage" class="siteBackgroundpreviousImage"></div>
                 <div id="SITE_BACKGROUNDpreviousVideo" class="siteBackgroundpreviousVideo"></div>
@@ -4038,8 +4040,8 @@
             </div>
         </div>
         <div class="SITE_ROOT" id="SITE_ROOT" style="width: 980px; padding-bottom: 0px;">
-            <div id="masterPage" style="width: 980px; position: static; top: 0px; height: 886px;">
-                <!--<header class="hc1" data-state="" id="SITE_HEADER"
+            <div id="masterPage" style="width: 980px; position: static; top: 0px; height: 3030px;">
+                <header class="hc1" data-state="" id="SITE_HEADER"
                         style="width: 980px; top: 0px; height: 88px; left: 0px; position: absolute;">
                     <div id="SITE_HEADERscreenWidthBackground" class="hc1screenWidthBackground"
                          style="width: 1423px; left: -222px;"></div>
@@ -4047,9 +4049,9 @@
                         <div id="SITE_HEADERbg" class="hc1bg"></div>
                         <div id="SITE_HEADERinlineContent" class="hc1inlineContent"></div>
                     </div>
-                </header>-->
+                </header>
                 <footer class="style-it2zq6n1_footer style-it2zq6n1" data-state=" " id="SITE_FOOTER"
-                        style="width: 980px; position: absolute; left: 0px; height: 56px; bottom: auto; top: 1800px;">
+                        style="width: 980px; position: absolute; left: 0px; height: 211px; bottom: auto; top: 2819px;">
                     <div id="SITE_FOOTERscreenWidthBackground" class="style-it2zq6n1screenWidthBackground"
                          style="width: 1423px; left: -222px;">
                         <div class="style-it2zq6n1_bg"></div>
@@ -4058,16 +4060,19 @@
                         <div id="SITE_FOOTERbg" class="style-it2zq6n1bg"></div>
                         <div id="SITE_FOOTERinlineContent" class="style-it2zq6n1inlineContent">
                             <div class="txtNew" id="comp-irlzrzwk"
-                                 style="left: 20px; width: 471px; position: absolute; top: 20px;"><p class="font_9"
+                                 style="left: 20px; width: 471px; position: absolute; top: 141px;"><p class="font_9"
                                                                                                       style="line-height:1.4em;">
-                                    <span style="font-family:open sans,sans-serif;font-size: 20px;">All rights reserved. ©Copyright 2018</span></p>
+                                    <span style="font-family:open sans,sans-serif;">© 2023 Иван Тихонов. Сайт создан на&nbsp;<a
+                                                href="http://wix.com/?utm_campaign=vir_created_with" target="_blank"
+                                                data-content="http://wix.com/?utm_campaign=vir_created_with"
+                                                data-type="external">Wix.com</a></span></p>
                             </div>
                             <div class="txtNew" id="comp-irlzw5l9"
-                                 style="left: 655px; width: 325px; position: absolute; top: 37px;text-align: center;"><p class="font_9"
+                                 style="left: 655px; width: 325px; position: absolute; top: 140px;"><p class="font_9"
                                                                                                        style="line-height:1.4em;">
-                                    Subscribe to me in social networks</p>
+                                    Подпишитесь на меня в соцсетях</p>
                             </div>
-                            <!--<div id="comp-irlzpov0" data-align="center" data-disabled="false" data-margin="0"
+                            <div id="comp-irlzpov0" data-align="center" data-disabled="false" data-margin="0"
                                  data-should-use-flex="true" class="b1" data-state="desktop shouldUseFlex center"
                                  style="left: 21px; position: absolute; top: 67px; height: 51px; min-height: 18px; width: 470px;"
                                  data-prev-text="СКАЧАТЬ РЕЗЮМЕ В PDF" data-prev-min-width="154" data-prev-width="470">
@@ -4076,9 +4081,9 @@
                                    data-content="http://docs.wixstatic.com/ugd/68c56f_7a72d45d7e584ca08fab51482721992f.pdf"
                                    data-type="external" role="button" id="comp-irlzpov0link"
                                    class="g-transparent-a b1link"><span id="comp-irlzpov0label" class="b1label"
-                                                                        style="">СКАЧАТЬ РЕЗЮМЕ В PDF</span></a></div>-->
+                                                                        style="">СКАЧАТЬ РЕЗЮМЕ В PDF</span></a></div>
                             <div class="lb1" id="comp-it437nfg"
-                                 style="width: 325px; left: 655px; position: absolute; top: 3px; height: 32px;text-align: center;">
+                                 style="width: 212px; left: 655px; position: absolute; top: 76px; height: 32px;">
                                 <ul aria-label="Social bar" id="comp-it437nfgitemsContainer" class="lb1itemsContainer">
                                     <li class="lb1imageItem" id="comp-it437nfg0image"
                                         style="width: 32px; height: 32px; margin-bottom: 0px; margin-right: 13px; display: inline-block;">
@@ -4165,16 +4170,16 @@
                     </div>
                 </footer>
                 <div class="pc1" data-state="" id="PAGES_CONTAINER"
-                     style="width: 980px; position: absolute; top: -177px; height: 1532px; left: 0px;">
+                     style="width: 980px; position: absolute; top: 88px; height: 2731px; left: 0px;">
                     <div id="PAGES_CONTAINERscreenWidthBackground" class="pc1screenWidthBackground"
                          style="width: 1423px; left: -222px;"></div>
                     <div id="PAGES_CONTAINERcenteredContent" class="pc1centeredContent">
                         <div id="PAGES_CONTAINERbg" class="pc1bg"></div>
                         <div id="PAGES_CONTAINERinlineContent" class="pc1inlineContent">
                             <div class="s_VOwPageGroupSkin" id="SITE_PAGES"
-                                 style="left: 0px; width: 980px; position: absolute; top: 0px; height: 1532px;">
+                                 style="left: 0px; width: 980px; position: absolute; top: 0px; height: 2731px;">
                                 <div class="p1" id="s2vg5"
-                                     style="left: 0px; width: 980px; position: absolute; top: 0px; height: 1532px;">
+                                     style="left: 0px; width: 980px; position: absolute; top: 0px; height: 2731px;">
                                     <div id="s2vg5bg" class="p1bg"></div>
                                     <div id="s2vg5inlineContent" class="p1inlineContent">
                                         <div role="region" aria-label="Slideshow" class="style-it437nea1"
@@ -4190,171 +4195,190 @@
                                                      class="style-it437nea1inlineContent"
                                                      style="left: 222px; width: 980px;">
                                                     <div data-flexibleboxheight="false" data-parent-id="comp-it437ne7"
-                                                         data-min-height="675" class="style-it437ng0" id="comp-it437nfy"
-                                                         style="min-height: 456px; position: absolute; top: 0px; height: 456px; left: 0px; width: 980px; opacity: 1; visibility: inherit;">
-                                                        <div data-enable-video="true" class="style-it437ng0balata"
-                                                             id="comp-it437nfybalata"
+                                                         data-min-height="675" class="style-it437nf7" id="comp-it437nec"
+                                                         style="min-height: 675px; position: absolute; top: 0px; height: 675px; left: 0px; width: 980px; opacity: 1; visibility: inherit;">
+                                                        <div data-enable-video="true" class="style-it437nf7balata"
+                                                             id="comp-it437necbalata"
                                                              style="position: absolute; top: 0px; height: 100%; pointer-events: auto; overflow: hidden; left: -222px; width: 1423px; clip: rect(0px 1423px 675px 0px);">
-                                                            <div class="bgColor" id="comp-it437nfybalatabgcolor"
+                                                            <div class="bgColor" id="comp-it437necbalatabgcolor"
                                                                  style="position: absolute; width: 100%; height: 100%;">
-                                                                <div id="comp-it437nfybalatabgcoloroverlay"
+                                                                <div id="comp-it437necbalatabgcoloroverlay"
                                                                      class="bgColoroverlay"
                                                                      style="width: 100%; height: 100%; position: absolute; background-color: rgb(237, 239, 245);"></div>
                                                             </div>
                                                         </div>
-                                                        <div id="comp-it437nfyborderNode"
-                                                             class="style-it437ng0borderNode"></div>
-                                                        <div id="comp-it437nfyinlineContentParent"
-                                                             class="style-it437ng0inlineContentParent"
+                                                        <div id="comp-it437necborderNode"
+                                                             class="style-it437nf7borderNode"></div>
+                                                        <div id="comp-it437necinlineContentParent"
+                                                             class="style-it437nf7inlineContentParent"
                                                              style="overflow: visible; left: -222px; width: 1423px;">
-                                                            <div id="comp-it437nfyinlineContent"
-                                                                 class="style-it437ng0inlineContent"
+                                                            <div id="comp-it437necinlineContent"
+                                                                 class="style-it437nf7inlineContent"
                                                                  style="left: 222px; width: 980px;">
-                                                                <!--<div class="txtNew" id="comp-it437ng4"
-                                                                     style="left: 20px; width: 648px; position: absolute; top: 205px;">
-                                                                    <h4 class="font_4"><span
-                                                                                style="letter-spacing:0.1em;">ОПЫТ РАБОТЫ</span>
-                                                                    </h4>
-                                                                </div>
-                                                                <div class="style-it437ng72" id="comp-it437ng7"
-                                                                     style="left: 20px; width: 52px; position: absolute; top: 277px; height: 7px;">
-                                                                    <div id="comp-it437ng7line"
-                                                                         class="style-it437ng72line"></div>
-                                                                </div>
-                                                                <div class="txtNew" id="comp-it437nga"
-                                                                     style="left: 20px; width: 244px; position: absolute; top: 350px;">
-                                                                    <h6 class="font_6" style="line-height:1.4em;">
-                                                                        Должность</h6>
-
-                                                                    <h6 class="font_6" style="line-height:1.4em;"><span
-                                                                                class="color_15"><a
-                                                                                    href="http://www.wix.com"
-                                                                                    target="_blank"
-                                                                                    data-content="http://www.wix.com"
-                                                                                    data-type="external">Название компании</a></span>
-                                                                    </h6>
-
-                                                                    <h6 class="font_6" style="line-height:1.4em;"><span
-                                                                                class="color_22">2014 — Н. В.</span>
-                                                                    </h6>
-
-                                                                    <h6 class="font_6" style="line-height:1.4em;"><span
-                                                                                class="color_15"><span class="wixGuard">​</span></span>
-                                                                    </h6>
-
-                                                                    <p class="font_8" style="line-height:1.4em;">Это
+                                                                <div class="txtNew" id="comp-it437nf9"
+                                                                     style="left: 532px; width: 428px; position: absolute; top: 354px;">
+                                                                    <p class="font_7" style="line-height:1.4em;">Это
                                                                         текст. Нажмите один раз и выберите
                                                                         «Редактировать текст» или просто кликните
-                                                                        дважды, чтобы добавить свой текст.</p>
+                                                                        дважды, чтобы добавить свой текст и настроить
+                                                                        шрифт. Вы можете переместить его в любое место
+                                                                        на странице. Расскажите посетителям сайта о
+                                                                        себе.</p>
                                                                 </div>
-                                                                <div class="txtNew" id="comp-it437nge"
-                                                                     style="left: 368px; width: 244px; position: absolute; top: 350px;">
-                                                                    <h6 class="font_6" style="line-height:1.4em;">
-                                                                        Должность</h6>
-
-                                                                    <h6 class="font_6" style="line-height:1.4em;"><span
-                                                                                class="color_15"><a
-                                                                                    href="http://www.wix.com"
-                                                                                    target="_blank"
-                                                                                    data-content="http://www.wix.com"
-                                                                                    data-type="external">Название компании</a></span>
-                                                                    </h6>
-
-                                                                    <h6 class="font_6" style="line-height:1.4em;"><span
-                                                                                class="color_22">2010 — 2013</span></h6>
-
-                                                                    <h6 class="font_6" style="line-height:1.4em;"><span
-                                                                                class="color_15"><span class="wixGuard">​</span></span>
-                                                                    </h6>
-
-                                                                    <p class="font_8" style="line-height:1.4em;">Это
+                                                                <div class="txtNew" id="comp-it437nfe"
+                                                                     style="left: 20px; width: 432px; position: absolute; top: 354px;">
+                                                                    <p class="font_7" style="line-height:1.4em;">Это
                                                                         текст. Нажмите один раз и выберите
                                                                         «Редактировать текст» или просто кликните
-                                                                        дважды, чтобы добавить свой текст.</p>
+                                                                        дважды, чтобы добавить свой текст и настроить
+                                                                        шрифт. Вы можете переместить его в любое место
+                                                                        на странице. Расскажите посетителям сайта о
+                                                                        себе.</p>
                                                                 </div>
-                                                                <div class="txtNew" id="comp-it437ngh1"
-                                                                     style="left: 716px; width: 244px; position: absolute; top: 350px;">
-                                                                    <h6 class="font_6" style="line-height:1.4em;">
-                                                                        Должность</h6>
-
-                                                                    <h6 class="font_6" style="line-height:1.4em;"><span
-                                                                                class="color_15"><a
-                                                                                    href="http://www.wix.com"
-                                                                                    target="_blank"
-                                                                                    data-content="http://www.wix.com"
-                                                                                    data-type="external">Название компании</a></span>
-                                                                    </h6>
-
-                                                                    <h6 class="font_6" style="line-height:1.4em;"><span
-                                                                                class="color_22">2008&nbsp;— 2012</span>
-                                                                    </h6>
-
-                                                                    <h6 class="font_6" style="line-height:1.4em;"><span
-                                                                                class="color_15"><span class="wixGuard">​</span></span>
-                                                                    </h6>
-
-                                                                    <p class="font_8" style="line-height:1.4em;">Это
-                                                                        текст. Нажмите один раз и выберите
-                                                                        «Редактировать текст» или просто кликните
-                                                                        дважды, чтобы добавить свой текст.</p>
-                                                                </div>
-                                                                <div id="comp-it437ngk" data-align="center"
-                                                                     data-disabled="false" data-margin="0"
-                                                                     data-should-use-flex="true" class="b1"
-                                                                     data-state="desktop shouldUseFlex center"
-                                                                     style="left: 716px; position: absolute; top: 207px; height: 42px; min-height: 18px; width: 230px;"
-                                                                     data-prev-text="СКАЧАТЬ РЕЗЮМЕ В PDF"
-                                                                     data-prev-min-width="154" data-prev-width="230"><a
-                                                                            href="https://docs.wixstatic.com/ugd/68c56f_7a72d45d7e584ca08fab51482721992f.pdf"
-                                                                            target="_blank" data-type="document"
-                                                                            role="button" id="comp-it437ngklink"
-                                                                            class="g-transparent-a b1link"><span
-                                                                                id="comp-it437ngklabel" class="b1label"
-                                                                                style="">СКАЧАТЬ РЕЗЮМЕ В PDF</span></a>
-                                                                </div>-->
-
-
-
-                                                                <div style="font-size: 28px;position: absolute;top: 142px;">
-                                                                    <div style="text-align: center"><h1 style="font-size: 35px;margin: 0 0 10px 0;">Barrister, attorney, lawyer, advocate of Ukraine</h1></div>
-                                                                    <div style="text-align: center">Barrister Rostislav Malimonenko, the member of Ukrainian National BAR Association will help to resolve any legal issues in Ukraine including representation in criminal cases, recovering a debt, divorce, determination of the child's place of residence through the court in Ukraine, division of spouses' property in Ukraine , representation and protection in Ukraine in all disputable cases on the territory of Ukraine. <a href="mailto:malimonenko@ukr.net" target="_blank" rel="noreferrer noopener">malimonenko@ukr.net</a> <a href="tel:+380667371277" target="_blank" value="+380667371277">+380667371277</a> <a href="tel:+380993090829" value="+380993090829" target="_blank">+380993090829</a></div>
-                                                                </div>
-
                                                                 <div class="txtNew" id="comp-it437nfo"
-                                                                     style="left: 20px; width: 428px; position: absolute; top: 470px;">
+                                                                     style="left: 20px; width: 428px; position: absolute; top: 205px;">
                                                                     <h4 class="font_4"><span
-                                                                                style="letter-spacing:0.1em;color: white;">ABOUT ME</span>
+                                                                                style="letter-spacing:0.1em;">ОБО МНЕ</span>
                                                                     </h4>
                                                                 </div>
                                                                 <div class="style-it437nft" id="comp-it437nfr"
-                                                                     style="left: 20px; width: 53px; position: absolute; top: 542px; height: 7px;">
+                                                                     style="left: 20px; width: 53px; position: absolute; top: 277px; height: 7px;">
                                                                     <div id="comp-it437nfrline"
                                                                          class="style-it437nftline"></div>
                                                                 </div>
-
-                                                                <div style="font-size: 28px;position: absolute;top: 573px;color: white;">
-                                                                    <div style="text-align: center;margin: 0 0 20px 0;">I live and work as a barrister in Ukraine. I have a lot of experience in all criminal cases, labour cases, civil cases, matrimonial cases, corporate cases, administrative proceedings, as well as other cases solution of which is required by the client.</div>
-                                                                    <div style="text-align: center;margin: 0 0 20px 0;">I have a lot of practical experience in appealing against illegal actions of police officers, prosecutors, and other officials.</div>
-                                                                    <div style="text-align: center;margin: 0 0 20px 0;">I always glad to help in solving your problems in Ukraine and protecting your rights and interests.</div>
+                                                                <div class="lb1" id="comp-ix4vt2r3"
+                                                                     style="width: 212px; left: 571px; position: absolute; top: 239px; height: 32px;">
+                                                                    <ul aria-label="Social bar"
+                                                                        id="comp-ix4vt2r3itemsContainer"
+                                                                        class="lb1itemsContainer">
+                                                                        <li class="lb1imageItem"
+                                                                            id="comp-ix4vt2r30image"
+                                                                            style="width: 32px; height: 32px; margin-bottom: 0px; margin-right: 13px; display: inline-block;">
+                                                                            <a href="https://www.linkedin.com/company/wix-com"
+                                                                               target="_blank"
+                                                                               data-content="https://www.linkedin.com/company/wix-com"
+                                                                               data-type="external"
+                                                                               id="comp-ix4vt2r30imagelink"
+                                                                               class="lb1imageItemlink">
+                                                                                <div data-style="position:absolute"
+                                                                                     class="lb1imageItemimage"
+                                                                                     id="comp-ix4vt2r30imageimage"
+                                                                                     style="position: absolute; width: 32px; height: 32px;">
+                                                                                    <div class="lb1imageItemimagepreloader"
+                                                                                         id="comp-ix4vt2r30imageimagepreloader"></div>
+                                                                                    <img id="comp-ix4vt2r30imageimageimage"
+                                                                                         alt="LinkedIn - Black Circle"
+                                                                                         data-type="image"
+                                                                                         style="width: 32px; height: 32px; object-fit: cover;"
+                                                                                         src="https://static.wixstatic.com/media/aa0402eb9ba2430d9d0620b59556efca.png/v1/fill/w_32,h_32,al_c,usm_0.66_1.00_0.01/aa0402eb9ba2430d9d0620b59556efca.png">
+                                                                                </div>
+                                                                            </a></li>
+                                                                        <li class="lb1imageItem"
+                                                                            id="comp-ix4vt2r31image"
+                                                                            style="width: 32px; height: 32px; margin-bottom: 0px; margin-right: 13px; display: inline-block;">
+                                                                            <a href="http://www.twitter.com/wix"
+                                                                               target="_blank"
+                                                                               data-content="http://www.twitter.com/wix"
+                                                                               data-type="external"
+                                                                               id="comp-ix4vt2r31imagelink"
+                                                                               class="lb1imageItemlink">
+                                                                                <div data-style="position:absolute"
+                                                                                     class="lb1imageItemimage"
+                                                                                     id="comp-ix4vt2r31imageimage"
+                                                                                     style="position: absolute; width: 32px; height: 32px;">
+                                                                                    <div class="lb1imageItemimagepreloader"
+                                                                                         id="comp-ix4vt2r31imageimagepreloader"></div>
+                                                                                    <img id="comp-ix4vt2r31imageimageimage"
+                                                                                         alt="Twitter - Black Circle"
+                                                                                         data-type="image"
+                                                                                         style="width: 32px; height: 32px; object-fit: cover;"
+                                                                                         src="https://static.wixstatic.com/media/870f97661ed14a5bb2d96ecbddec0aed.png/v1/fill/w_32,h_32,al_c,usm_0.66_1.00_0.01/870f97661ed14a5bb2d96ecbddec0aed.png">
+                                                                                </div>
+                                                                            </a></li>
+                                                                        <li class="lb1imageItem"
+                                                                            id="comp-ix4vt2r32image"
+                                                                            style="width: 32px; height: 32px; margin-bottom: 0px; margin-right: 13px; display: inline-block;">
+                                                                            <a href="https://plus.google.com/+Wix/posts"
+                                                                               target="_blank"
+                                                                               data-content="https://plus.google.com/+Wix/posts"
+                                                                               data-type="external"
+                                                                               id="comp-ix4vt2r32imagelink"
+                                                                               class="lb1imageItemlink">
+                                                                                <div data-style="position:absolute"
+                                                                                     class="lb1imageItemimage"
+                                                                                     id="comp-ix4vt2r32imageimage"
+                                                                                     style="position: absolute; width: 32px; height: 32px;">
+                                                                                    <div class="lb1imageItemimagepreloader"
+                                                                                         id="comp-ix4vt2r32imageimagepreloader"></div>
+                                                                                    <img id="comp-ix4vt2r32imageimageimage"
+                                                                                         alt="Google+ - Black Circle"
+                                                                                         data-type="image"
+                                                                                         style="width: 32px; height: 32px; object-fit: cover;"
+                                                                                         src="https://static.wixstatic.com/media/38f46577d89b43ae95cb65fac6d660f3.png/v1/fill/w_32,h_32,al_c,usm_0.66_1.00_0.01/38f46577d89b43ae95cb65fac6d660f3.png">
+                                                                                </div>
+                                                                            </a></li>
+                                                                        <li class="lb1imageItem"
+                                                                            id="comp-ix4vt2r33image"
+                                                                            style="width: 32px; height: 32px; margin-bottom: 0px; margin-right: 13px; display: inline-block;">
+                                                                            <a href="http://www.facebook.com/wix"
+                                                                               target="_blank"
+                                                                               data-content="http://www.facebook.com/wix"
+                                                                               data-type="external"
+                                                                               id="comp-ix4vt2r33imagelink"
+                                                                               class="lb1imageItemlink">
+                                                                                <div data-style="position:absolute"
+                                                                                     class="lb1imageItemimage"
+                                                                                     id="comp-ix4vt2r33imageimage"
+                                                                                     style="position: absolute; width: 32px; height: 32px;">
+                                                                                    <div class="lb1imageItemimagepreloader"
+                                                                                         id="comp-ix4vt2r33imageimagepreloader"></div>
+                                                                                    <img id="comp-ix4vt2r33imageimageimage"
+                                                                                         alt="Facebook - Black Circle"
+                                                                                         data-type="image"
+                                                                                         style="width: 32px; height: 32px; object-fit: cover;"
+                                                                                         src="https://static.wixstatic.com/media/4057345bcf57474b96976284050c00df.png/v1/fill/w_32,h_32,al_c,usm_0.66_1.00_0.01/4057345bcf57474b96976284050c00df.png">
+                                                                                </div>
+                                                                            </a></li>
+                                                                        <li class="lb1imageItem"
+                                                                            id="comp-ix4vt2r34image"
+                                                                            style="width: 32px; height: 32px; margin-bottom: 0px; margin-right: 13px; display: inline-block;">
+                                                                            <a href="http://www.vk.com" target="_blank"
+                                                                               data-content="http://www.vk.com"
+                                                                               data-type="external"
+                                                                               id="comp-ix4vt2r34imagelink"
+                                                                               class="lb1imageItemlink">
+                                                                                <div data-style="position:absolute"
+                                                                                     class="lb1imageItemimage"
+                                                                                     id="comp-ix4vt2r34imageimage"
+                                                                                     style="position: absolute; width: 32px; height: 32px;">
+                                                                                    <div class="lb1imageItemimagepreloader"
+                                                                                         id="comp-ix4vt2r34imageimagepreloader"></div>
+                                                                                    <img id="comp-ix4vt2r34imageimageimage"
+                                                                                         alt="Vkontakte - Black Circle"
+                                                                                         data-type="image"
+                                                                                         style="width: 32px; height: 32px; object-fit: cover;"
+                                                                                         src="https://static.wixstatic.com/media/3633d7d96db14e909beca202d72e5bb9.png/v1/fill/w_32,h_32,al_c,usm_0.66_1.00_0.01/3633d7d96db14e909beca202d72e5bb9.png">
+                                                                                </div>
+                                                                            </a></li>
+                                                                    </ul>
                                                                 </div>
-
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <!--<ol data-show-navigation-dots="true" id="comp-it437ne7dotsMenuWrapper"
+                                            <ol data-show-navigation-dots="true" id="comp-it437ne7dotsMenuWrapper"
                                                 class="style-it437nea1dotsMenuWrapper"
                                                 style="bottom: 44.5px; justify-content: center;">
                                                 <li class="style-it437nea1_navigation-dot-wrapper">
-                                                    <button class="style-it437nea1_navigation-dot reset-button"
+                                                    <button class="style-it437nea1_navigation-dot style-it437nea1_selected reset-button"
                                                             aria-label="Go to slide 1"
-                                                            style="width: 7px; height: 7px; margin-right: 7.5px; margin-left: 7.5px;"></button>
+                                                            style="width: 11px; height: 11px; margin-right: 7.5px; margin-left: 7.5px;"></button>
                                                 </li>
                                                 <li class="style-it437nea1_navigation-dot-wrapper">
-                                                    <button class="style-it437nea1_navigation-dot style-it437nea1_selected reset-button"
+                                                    <button class="style-it437nea1_navigation-dot reset-button"
                                                             aria-label="Go to slide 2"
-                                                            style="width: 11px; height: 11px; margin-right: 7.5px; margin-left: 7.5px;"></button>
+                                                            style="width: 7px; height: 7px; margin-right: 7.5px; margin-left: 7.5px;"></button>
                                                 </li>
                                                 <li class="style-it437nea1_navigation-dot-wrapper">
                                                     <button class="style-it437nea1_navigation-dot reset-button"
@@ -4391,7 +4415,7 @@
                                                                 points="33.5,0 32.8,0.7 37.1,5 0,5 0,6 37.1,6 32.8,10.3 33.5,11 39,5.5 "></polygon>
                                                     </svg>
                                                 </div>
-                                            </div>-->
+                                            </div>
                                         </div>
                                         <div data-exact-height="260" data-content-padding-horizontal="16"
                                              data-content-padding-vertical="16" title="" class="style-it437nj7"
@@ -4404,12 +4428,11 @@
                                                     <div class="style-it437nj7imgpreloader"
                                                          id="comp-it437nj5imgpreloader"></div>
                                                     <img id="comp-it437nj5imgimage" alt="" data-type="image"
-                                                         src="photo.jpg"
-                                                         style="width: 79%; height: 117%; object-fit: cover;margin: -13px 0 0 25px;">
-                                                </div>
+                                                         src="https://static.wixstatic.com/media/86f442ff0674441faadc2994b1b33e77.jpg/v1/crop/x_130,y_160,w_1320,h_1311/fill/w_248,h_244,al_c,q_80,usm_0.66_1.00_0.01/86f442ff0674441faadc2994b1b33e77.webp"
+                                                         style="width: 248px; height: 244px; object-fit: cover;"></div>
                                             </div>
                                         </div>
-                                        <!--<section class="strc1" id="comp-it437nlm"
+                                        <section class="strc1" id="comp-it437nlm"
                                                  style="width: 980px; position: absolute; top: 1214px; height: 980px; left: 0px;">
                                             <div data-enable-video="true" class="strc1balata" id="comp-it437nlmbalata"
                                                  style="position: absolute; top: 0px; width: calc((100vw - 17px) - 0px); height: 100%; pointer-events: auto; bottom: 0px; left: calc(490px - (((100vw - 17px) - 0px) / 2)); right: calc(490px + (((100vw - 17px) - 0px) / 2)); overflow: hidden; clip: rect(0px 1423px 980px 0px);">
@@ -4437,7 +4460,7 @@
                                                              style="position: fixed; pointer-events: none; top: 0px; transform-style: preserve-3d; width: 1424px; left: -1px; height: 980px;">
                                                             <div data-type="image" data-style="" class="bgImage"
                                                                  id="comp-it437nlqbalatamediacontent"
-                                                                 style="transform: translate3d(0px, 20.6px, 0px); position: relative; width: 1424px; height: 980px; opacity: 0.7;">
+                                                                 style="transform: translate3d(0px, 97.8px, 0px); position: relative; width: 1424px; height: 980px; opacity: 0.7;">
                                                                 <div class="bgImagepreloader"
                                                                      id="comp-it437nlqbalatamediacontentpreloader"></div>
                                                                 <img id="comp-it437nlqbalatamediacontentimage" alt=""
@@ -4469,15 +4492,15 @@
                                                                     id="comp-it437nm0iframe"
                                                                     classname="style-j28qqa6biframe"
                                                                     style="display: block; width: 100%; height: 100%; overflow: hidden; position: absolute;"
-                                                                    src="https://progallery.wix.com/gallery.html?cacheKiller=1516518693473&amp;compId=comp-it437nm0&amp;deviceType=desktop&amp;externalId=f8023e89-e2d4-4ace-a5fb-fcec002e9f45&amp;height=626&amp;instance=qZM17LemK5217tmsWgOomnWKfnpURktilmkndeAfF08.eyJpbnN0YW5jZUlkIjoiNDM0ZTEzNzAtYWU1Zi00ZGJmLTg2YmUtMmYzZTYzZGQyYzliIiwiYXBwRGVmSWQiOiIxNDI3MWQ2Zi1iYTYyLWQwNDUtNTQ5Yi1hYjk3MmFlMWY3MGUiLCJzaWduRGF0ZSI6IjIwMTgtMDEtMjFUMDc6MTE6MzAuNzg1WiIsInVpZCI6bnVsbCwiaXBBbmRQb3J0IjoiOTEuMjIyLjYwLjE2OC80MTA0MSIsInZlbmRvclByb2R1Y3RJZCI6bnVsbCwiZGVtb01vZGUiOnRydWUsIm9yaWdpbkluc3RhbmNlSWQiOiJjMGI2ZTRjZS02NDgwLTQ5MmMtYWMwOC1mZWJiYjQwODg2YTgiLCJhaWQiOiI5MWIzYTFiYS1lMjNlLTQ4MjgtOTE2Ni1jZDY2YzkxZGI1NTQiLCJiaVRva2VuIjoiZmRjN2Q4ZTEtYzYwOS0wYTU0LTEyYTUtN2RhODAyZjdlNGYzIiwic2l0ZU93bmVySWQiOiI2OGM1NmYzOS1mZTY3LTRmM2QtOGFlNy05OTE2ODQ0NjNhNjMifQ&amp;locale=ru&amp;pageId=s2vg5&amp;viewMode=site&amp;vsi=eeb01d7c-75d1-4a7c-8e06-889640c718c4&amp;width=941"></iframe>
+                                                                    src="https://progallery.wix.com/gallery.html?cacheKiller=1516609106845&amp;compId=comp-it437nm0&amp;deviceType=desktop&amp;externalId=f8023e89-e2d4-4ace-a5fb-fcec002e9f45&amp;height=626&amp;instance=PNQ8P48c2LiSRh0iHnBrnfLzmGZhXXYpghfLFAwNDyI.eyJpbnN0YW5jZUlkIjoiNDM0ZTEzNzAtYWU1Zi00ZGJmLTg2YmUtMmYzZTYzZGQyYzliIiwiYXBwRGVmSWQiOiIxNDI3MWQ2Zi1iYTYyLWQwNDUtNTQ5Yi1hYjk3MmFlMWY3MGUiLCJzaWduRGF0ZSI6IjIwMTgtMDEtMjJUMDg6MTg6MjIuMDc0WiIsInVpZCI6bnVsbCwiaXBBbmRQb3J0IjoiOTEuMjIyLjYwLjE4My82MDYxOSIsInZlbmRvclByb2R1Y3RJZCI6bnVsbCwiZGVtb01vZGUiOnRydWUsIm9yaWdpbkluc3RhbmNlSWQiOiJjMGI2ZTRjZS02NDgwLTQ5MmMtYWMwOC1mZWJiYjQwODg2YTgiLCJhaWQiOiI5MWIzYTFiYS1lMjNlLTQ4MjgtOTE2Ni1jZDY2YzkxZGI1NTQiLCJiaVRva2VuIjoiZmRjN2Q4ZTEtYzYwOS0wYTU0LTEyYTUtN2RhODAyZjdlNGYzIiwic2l0ZU93bmVySWQiOiI2OGM1NmYzOS1mZTY3LTRmM2QtOGFlNy05OTE2ODQ0NjNhNjMifQ&amp;locale=ru&amp;pageId=s2vg5&amp;viewMode=site&amp;vsi=4611910e-500a-42a3-910f-907c60b21822&amp;width=941"></iframe>
                                                             <div id="comp-it437nm0overlay"
                                                                  class="style-j28qqa6boverlay"></div>
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
-                                        </section>-->
-                                        <!--<div id="comp-it437nmb" data-align="center" data-disabled="false"
+                                        </section>
+                                        <div id="comp-it437nmb" data-align="center" data-disabled="false"
                                              data-margin="0" data-should-use-flex="true" class="b3"
                                              data-state="desktop shouldUseFlex center"
                                              style="top: 40px; right: 64px; position: fixed; z-index: 50; height: 40px; min-height: 18px; width: 302px;"
@@ -4487,20 +4510,20 @@
                                                     target="_blank" data-type="document" role="button"
                                                     id="comp-it437nmblink" class="g-transparent-a b3link"><span
                                                         id="comp-it437nmblabel" class="b3label" style="">СКАЧАТЬ РЕЗЮМЕ В PDF</span></a>
-                                        </div>-->
+                                        </div>
                                         <div class="txtNew" id="comp-it437nmg"
-                                             style="left: 64px; width: 851px; position: absolute; top: 222px;"><h1
-                                                    class="font_0" style="line-height:1.2em; text-align:center;font-size: 44px">
-                                                Barrister, attorney, lawyer, advocate of Ukraine</h1></div>
+                                             style="left: 64px; width: 851px; position: absolute; top: 193px;"><h1
+                                                    class="font_0" style="line-height:1.2em; text-align:center;">Иван
+                                                Тихонов</h1></div>
                                         <div class="txtNew" id="comp-it437nmk"
-                                             style="left: 136px; width: 708px; position: absolute; top: 365px;"><h5
+                                             style="left: 136px; width: 708px; position: absolute; top: 306px;"><h5
                                                     class="font_5" style="text-align:center;"><span
                                                         style="font-family:open sans,sans-serif;"><span
-                                                            class="color_22"><span style="letter-spacing:0.3em;">Rostislav Malimonenko</span></span></span>
+                                                            class="color_22"><span style="letter-spacing:0.25em;">БИЗНЕС-КОНСУЛЬТАНТ</span></span></span>
                                             </h5>
                                         </div>
                                         <section class="strc1" id="comp-it439him"
-                                                 style="width: 980px; position: absolute; top: 1440px; height: 537px; left: 0px;">
+                                                 style="width: 980px; position: absolute; top: 2194px; height: 537px; left: 0px;">
                                             <div data-enable-video="true" class="strc1balata" id="comp-it439himbalata"
                                                  style="position: absolute; top: 0px; width: calc((100vw - 17px) - 0px); height: 100%; pointer-events: auto; bottom: 0px; left: calc(490px - (((100vw - 17px) - 0px) / 2)); right: calc(490px + (((100vw - 17px) - 0px) / 2)); overflow: hidden; clip: rect(0px 1423px 537px 0px);">
                                                 <div class="bgColor" id="comp-it439himbalatabgcolor"
@@ -4527,7 +4550,7 @@
                                                         <div class="txtNew" id="comp-it43cp2t"
                                                              style="left: 20px; width: 428px; position: absolute; top: 69px;">
                                                             <h4 class="font_4"><span class="color_11"><span
-                                                                            style="letter-spacing:0.1em;">CONTACTS</span></span>
+                                                                            style="letter-spacing:0.1em;">КОНТАКТЫ</span></span>
                                                             </h4>
                                                         </div>
                                                         <div class="style-it43cp2y" id="comp-it43cp2x"
@@ -4540,7 +4563,7 @@
                                                             <p class="font_7" style="line-height:2em;"><span
                                                                         style="font-family:open sans,sans-serif;"><span
                                                                             style="font-weight:bold;"><span
-                                                                                class="color_11">Telephone</span></span></span>
+                                                                                class="color_11">Телефон</span></span></span>
                                                             </p>
 
                                                             <p class="font_7" style="line-height:2em;"><span
@@ -4552,19 +4575,19 @@
                                                             <p class="font_7" style="line-height:2em;"><span
                                                                         style="font-family:open sans,sans-serif;"><span
                                                                             style="font-weight:bold;"><span
-                                                                                class="color_11">Site</span></span></span>
+                                                                                class="color_11">Сайт</span></span></span>
                                                             </p>
 
                                                             <p class="font_7" style="line-height:2em;"><span
                                                                         style="font-family:open sans,sans-serif;"><span
                                                                             style="font-weight:bold;"><span
-                                                                                class="color_11">Address</span></span></span>
+                                                                                class="color_11">Адрес</span></span></span>
                                                             </p>
                                                         </div>
                                                         <div class="txtNew" id="comp-it43cp36"
                                                              style="left: 140px; width: 308px; position: absolute; top: 188px;">
                                                             <p class="font_7" style="line-height:2em;"><span
-                                                                        class="color_11"><a href="tel:+380667371277" target="_blank" value="+380667371277">+380667371277</a>, <a href="tel:+380993090829" target="_blank" value="+380993090829">+380993090829</a></span></p>
+                                                                        class="color_11">+7 (495) 000-00-00</span></p>
 
                                                             <p class="font_7" style="line-height:2em;"><span
                                                                         class="color_11"><object height="0"><a
@@ -4572,18 +4595,18 @@
                                                                                 data-auto-recognition="true"
                                                                                 data-content="info@mysite.ru"
                                                                                 href="mailto:info@mysite.ru"
-                                                                                data-type="mail">malimonenko@ukr.net</a></object></span>
+                                                                                data-type="mail">info@mysite.ru</a></object></span>
                                                             </p>
 
                                                             <p class="font_7" style="line-height:2em;"><span
                                                                         class="color_11"><a href="http://www.wix.com"
                                                                                             target="_blank"
                                                                                             data-content="http://www.wix.com"
-                                                                                            data-type="external">...</a></span>
+                                                                                            data-type="external">www.mysite.ru</a></span>
                                                             </p>
 
                                                             <p class="font_7" style="line-height:2em;"><span
-                                                                        class="color_11">...</span>
+                                                                        class="color_11">ул. Арбат, 1а, Москва, Россия</span>
                                                             </p>
                                                         </div>
                                                     </div>
@@ -4614,7 +4637,7 @@
                                                                     <div class="cf1_first-row-wrapper"><input
                                                                                 type="text" id="field1" required=""
                                                                                 aria-invalid="false" name="Имя" value=""
-                                                                                class="cf1_required" placeholder="Name"
+                                                                                class="cf1_required" placeholder="Имя"
                                                                                 data-aid="nameField"><input type="text"
                                                                                                             id="field2"
                                                                                                             required=""
@@ -4627,7 +4650,7 @@
                                                                     </div>
                                                                     <div><input type="text" id="field3"
                                                                                 aria-invalid="false" name="Тема"
-                                                                                value="" class="" placeholder="Theme"
+                                                                                value="" class="" placeholder="Тема"
                                                                                 data-aid="subjectField"><input
                                                                                 type="tel" id="field4"
                                                                                 aria-invalid="false" name="Телефон"
@@ -4643,12 +4666,12 @@
                                                                                                              placeholder="Адрес"
                                                                                                              data-aid="addressField">
                                                                     </div>
-                                                                    <textarea placeholder="Message" name="Сообщение"
+                                                                    <textarea placeholder="Сообщение" name="Сообщение"
                                                                               class="cf1fieldMessage"
                                                                               data-aid="messageField"
                                                                               id="comp-it43dhlqfieldMessage"></textarea>
                                                                     <button type="submit" id="comp-it43dhlqsubmit"
-                                                                            class="cf1submit">Send
+                                                                            class="cf1submit">Отправить
                                                                     </button>
                                                                     <div aria-live="polite"
                                                                          class="cf1_success cf1notifications"
@@ -4659,7 +4682,7 @@
                                                         <div class="txtNew" id="comp-it43dhlu"
                                                              style="left: 42px; width: 438px; position: absolute; top: 67px;">
                                                             <h4 class="font_4"><span class="color_15"><span
-                                                                            style="letter-spacing:0.1em;">WRITE ME</span></span>
+                                                                            style="letter-spacing:0.1em;">НАПИШИТЕ МНЕ</span></span>
                                                             </h4>
                                                         </div>
                                                         <div class="style-it43dhm8" id="comp-it43dhm7"
@@ -4685,8 +4708,10 @@
                      data-open-direction="subMenuOpenDir-down">
                     <ul class="style-ix4t813jmenuContainer">
                         <li class="style-ix4t813j_selected style-ix4t813j_item style-ix4t813j_itemWrapper " id="root0_"
-                            style="height: 96px;">
-                            <!--<a class=" style-ix4t813j_label level0" role="button" aria-haspopup="false" href="https://www.wix.com/templatesru/business-cv-ru" target="_self" style="line-height: 98px;">ГЛАВНАЯ</a>-->
+                            style="height: 96px;"><a class=" style-ix4t813j_label level0" role="button"
+                                                     aria-haspopup="false"
+                                                     href="https://www.wix.com/templatesru/business-cv-ru"
+                                                     target="_self" style="line-height: 98px;">ГЛАВНАЯ</a>
                             <ul class="style-ix4t813j_subMenu  style-ix4t813j_emptySubMenu"
                                 style="margin-bottom: 0px;"></ul>
                         </li>
@@ -4702,7 +4727,7 @@
                             aria-label="Wix Pro Gallery" id="tpaWorker_1105iframe"
                             classname="s_DtaksTPAWidgetSkiniframe"
                             style="display: none; width: 100%; height: 100%; overflow: hidden; position: absolute;"
-                            src="https://progallery.wix.com/worker.html?cacheKiller=1516518693473&amp;compId=tpaWorker_1105&amp;deviceType=desktop&amp;endpointType=worker&amp;instance=qZM17LemK5217tmsWgOomnWKfnpURktilmkndeAfF08.eyJpbnN0YW5jZUlkIjoiNDM0ZTEzNzAtYWU1Zi00ZGJmLTg2YmUtMmYzZTYzZGQyYzliIiwiYXBwRGVmSWQiOiIxNDI3MWQ2Zi1iYTYyLWQwNDUtNTQ5Yi1hYjk3MmFlMWY3MGUiLCJzaWduRGF0ZSI6IjIwMTgtMDEtMjFUMDc6MTE6MzAuNzg1WiIsInVpZCI6bnVsbCwiaXBBbmRQb3J0IjoiOTEuMjIyLjYwLjE2OC80MTA0MSIsInZlbmRvclByb2R1Y3RJZCI6bnVsbCwiZGVtb01vZGUiOnRydWUsIm9yaWdpbkluc3RhbmNlSWQiOiJjMGI2ZTRjZS02NDgwLTQ5MmMtYWMwOC1mZWJiYjQwODg2YTgiLCJhaWQiOiI5MWIzYTFiYS1lMjNlLTQ4MjgtOTE2Ni1jZDY2YzkxZGI1NTQiLCJiaVRva2VuIjoiZmRjN2Q4ZTEtYzYwOS0wYTU0LTEyYTUtN2RhODAyZjdlNGYzIiwic2l0ZU93bmVySWQiOiI2OGM1NmYzOS1mZTY3LTRmM2QtOGFlNy05OTE2ODQ0NjNhNjMifQ&amp;locale=ru&amp;viewMode=site&amp;vsi=eeb01d7c-75d1-4a7c-8e06-889640c718c4"></iframe>
+                            src="https://progallery.wix.com/worker.html?cacheKiller=1516609106845&amp;compId=tpaWorker_1105&amp;deviceType=desktop&amp;endpointType=worker&amp;instance=PNQ8P48c2LiSRh0iHnBrnfLzmGZhXXYpghfLFAwNDyI.eyJpbnN0YW5jZUlkIjoiNDM0ZTEzNzAtYWU1Zi00ZGJmLTg2YmUtMmYzZTYzZGQyYzliIiwiYXBwRGVmSWQiOiIxNDI3MWQ2Zi1iYTYyLWQwNDUtNTQ5Yi1hYjk3MmFlMWY3MGUiLCJzaWduRGF0ZSI6IjIwMTgtMDEtMjJUMDg6MTg6MjIuMDc0WiIsInVpZCI6bnVsbCwiaXBBbmRQb3J0IjoiOTEuMjIyLjYwLjE4My82MDYxOSIsInZlbmRvclByb2R1Y3RJZCI6bnVsbCwiZGVtb01vZGUiOnRydWUsIm9yaWdpbkluc3RhbmNlSWQiOiJjMGI2ZTRjZS02NDgwLTQ5MmMtYWMwOC1mZWJiYjQwODg2YTgiLCJhaWQiOiI5MWIzYTFiYS1lMjNlLTQ4MjgtOTE2Ni1jZDY2YzkxZGI1NTQiLCJiaVRva2VuIjoiZmRjN2Q4ZTEtYzYwOS0wYTU0LTEyYTUtN2RhODAyZjdlNGYzIiwic2l0ZU93bmVySWQiOiI2OGM1NmYzOS1mZTY3LTRmM2QtOGFlNy05OTE2ODQ0NjNhNjMifQ&amp;locale=ru&amp;viewMode=site&amp;vsi=4611910e-500a-42a3-910f-907c60b21822"></iframe>
                     <div id="tpaWorker_1105overlay" class="s_DtaksTPAWidgetSkinoverlay"></div>
                 </div>
             </div>
@@ -4729,6 +4754,18 @@
     } catch (e) {
     }</script>
 
+<script type="text/javascript">
+    //<![CDATA[
+    (function () {
+        var _analytics_scr = document.createElement('script');
+        _analytics_scr.type = 'text/javascript';
+        _analytics_scr.async = true;
+        _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1387831824';
+        var _analytics_elem = document.getElementsByTagName('script')[0];
+        _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+    })();
+    // ]]>
+</script>
 
 </body>
 </html>
