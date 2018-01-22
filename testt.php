@@ -4051,7 +4051,7 @@
                     </div>
                 </header>-->
                 <footer class="style-it2zq6n1_footer style-it2zq6n1" data-state=" " id="SITE_FOOTER"
-                        style="width: 980px; position: absolute; left: 0px; height: 56px; bottom: auto; top: 1800px;">
+                        style="width: 980px; position: absolute; left: 0px; height: 56px; bottom: auto; top: 1575px;">
                     <div id="SITE_FOOTERscreenWidthBackground" class="style-it2zq6n1screenWidthBackground"
                          style="width: 1423px; left: -222px;">
                         <div class="style-it2zq6n1_bg"></div>
@@ -4322,7 +4322,7 @@
                                                                     <div style="text-align: center">Barrister Rostislav Malimonenko, the member of Ukrainian National BAR Association will help to resolve any legal issues in Ukraine including representation in criminal cases, recovering a debt, divorce, determination of the child's place of residence through the court in Ukraine, division of spouses' property in Ukraine , representation and protection in Ukraine in all disputable cases on the territory of Ukraine. <a href="mailto:malimonenko@ukr.net" target="_blank" rel="noreferrer noopener">malimonenko@ukr.net</a> <a href="tel:+380667371277" target="_blank" value="+380667371277">+380667371277</a> <a href="tel:+380993090829" value="+380993090829" target="_blank">+380993090829</a></div>
                                                                 </div>
 
-                                                                <div class="txtNew" id="comp-it437nfo"
+                                                                <!--<div class="txtNew" id="comp-it437nfo"
                                                                      style="left: 20px; width: 428px; position: absolute; top: 470px;">
                                                                     <h4 class="font_4"><span
                                                                                 style="letter-spacing:0.1em;color: white;">ABOUT ME</span>
@@ -4332,9 +4332,9 @@
                                                                      style="left: 20px; width: 53px; position: absolute; top: 542px; height: 7px;">
                                                                     <div id="comp-it437nfrline"
                                                                          class="style-it437nftline"></div>
-                                                                </div>
+                                                                </div>-->
 
-                                                                <div style="font-size: 28px;position: absolute;top: 573px;color: white;">
+                                                                <div style="font-size: 21px;position: absolute;top: 473px;color: white;">
                                                                     <div style="text-align: center;margin: 0 0 20px 0;">I live and work as a barrister in Ukraine. I have a lot of experience in all criminal cases, labour cases, civil cases, matrimonial cases, corporate cases, administrative proceedings, as well as other cases solution of which is required by the client.</div>
                                                                     <div style="text-align: center;margin: 0 0 20px 0;">I have a lot of practical experience in appealing against illegal actions of police officers, prosecutors, and other officials.</div>
                                                                     <div style="text-align: center;margin: 0 0 20px 0;">I always glad to help in solving your problems in Ukraine and protecting your rights and interests.</div>
@@ -4502,7 +4502,7 @@
                                             </h5>
                                         </div>
                                         <section class="strc1" id="comp-it439him"
-                                                 style="width: 980px; position: absolute; top: 1440px; height: 537px; left: 0px;">
+                                                 style="width: 980px; position: absolute; top: 1215px; height: 537px; left: 0px;">
                                             <div data-enable-video="true" class="strc1balata" id="comp-it439himbalata"
                                                  style="position: absolute; top: 0px; width: calc((100vw - 17px) - 0px); height: 100%; pointer-events: auto; bottom: 0px; left: calc(490px - (((100vw - 17px) - 0px) / 2)); right: calc(490px + (((100vw - 17px) - 0px) / 2)); overflow: hidden; clip: rect(0px 1423px 537px 0px);">
                                                 <div class="bgColor" id="comp-it439himbalatabgcolor"
@@ -4551,7 +4551,7 @@
                                                                                 class="color_11">Email</span></span></span>
                                                             </p>
 
-                                                            <p class="font_7" style="line-height:2em;"><span
+                                                            <!--<p class="font_7" style="line-height:2em;"><span
                                                                         style="font-family:open sans,sans-serif;"><span
                                                                             style="font-weight:bold;"><span
                                                                                 class="color_11">Site</span></span></span>
@@ -4561,7 +4561,7 @@
                                                                         style="font-family:open sans,sans-serif;"><span
                                                                             style="font-weight:bold;"><span
                                                                                 class="color_11">Address</span></span></span>
-                                                            </p>
+                                                            </p>-->
                                                         </div>
                                                         <div class="txtNew" id="comp-it43cp36"
                                                              style="left: 140px; width: 308px; position: absolute; top: 188px;">
@@ -4577,7 +4577,7 @@
                                                                                 data-type="mail">malimonenko@ukr.net</a></object></span>
                                                             </p>
 
-                                                            <p class="font_7" style="line-height:2em;"><span
+                                                            <!--<p class="font_7" style="line-height:2em;"><span
                                                                         class="color_11"><a href="http://www.wix.com"
                                                                                             target="_blank"
                                                                                             data-content="http://www.wix.com"
@@ -4586,7 +4586,7 @@
 
                                                             <p class="font_7" style="line-height:2em;"><span
                                                                         class="color_11">...</span>
-                                                            </p>
+                                                            </p>-->
                                                         </div>
                                                     </div>
                                                 </div>
