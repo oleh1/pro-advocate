@@ -4334,7 +4334,7 @@
                                                                          class="style-it437nftline"></div>
                                                                 </div>-->
 
-                                                                <div style="font-size: 21px;position: absolute;top: 473px;color: white;">
+                                                                <div style="font-size: 21px;position: absolute;top: 474px;color: white;">
                                                                     <div style="text-align: center;margin: 0 0 20px 0;">I live and work as a barrister in Ukraine. I have a lot of experience in all criminal cases, labour cases, civil cases, matrimonial cases, corporate cases, administrative proceedings, as well as other cases solution of which is required by the client.</div>
                                                                     <div style="text-align: center;margin: 0 0 20px 0;">I have a lot of practical experience in appealing against illegal actions of police officers, prosecutors, and other officials.</div>
                                                                     <div style="text-align: center;margin: 0 0 20px 0;">I always glad to help in solving your problems in Ukraine and protecting your rights and interests.</div>
@@ -4491,14 +4491,14 @@
                                                         id="comp-it437nmblabel" class="b3label" style="">СКАЧАТЬ РЕЗЮМЕ В PDF</span></a>
                                         </div>-->
                                         <div class="txtNew" id="comp-it437nmg"
-                                             style="left: 64px; width: 851px; position: absolute; top: 222px;"><h1
+                                             style="left: 64px; width: 851px; position: absolute; top: 238px;"><h1
                                                     class="font_0" style="line-height:1.2em; text-align:center;font-size: 44px">
-                                                Barrister, attorney, lawyer, advocate of Ukraine</h1></div>
+                                                Rostislav Malimonenko</h1></div>
                                         <div class="txtNew" id="comp-it437nmk"
-                                             style="left: 136px; width: 708px; position: absolute; top: 365px;"><h5
+                                             style="left: 136px; width: 708px; position: absolute; top: 331px;"><h5
                                                     class="font_5" style="text-align:center;"><span
                                                         style="font-family:open sans,sans-serif;"><span
-                                                            class="color_22"><span style="letter-spacing:0.3em;">Rostislav Malimonenko</span></span></span>
+                                                            class="color_22"><span style="letter-spacing:0.3em;">Barrister, attorney, lawyer, advocate of Ukraine</span></span></span>
                                             </h5>
                                         </div>
                                         <section class="strc1" id="comp-it439him"
@@ -4650,6 +4650,7 @@
                                                                               data-aid="messageField"
                                                                               id="comp-it43dhlqfieldMessage"></textarea>
                                                                     <div id="comp-it43dhlqsubmit1"
+                                                                         style="font-size:  25px;font-weight:  bold;"
                                                                             class="cf1submit1">Send
                                                                     </div>
                                                                     <div aria-live="polite"
