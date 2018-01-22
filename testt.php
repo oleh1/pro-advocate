@@ -4472,14 +4472,14 @@
                                                         id="comp-it437nmblabel" class="b3label" style="">СКАЧАТЬ РЕЗЮМЕ В PDF</span></a>
                                         </div>-->
                                         <div class="txtNew" id="comp-it437nmg"
-                                             style="left: 64px; width: 851px; position: absolute; top: 193px;"><h1
-                                                    class="font_0" style="line-height:1.2em; text-align:center;">
-                                                Rostislav Malimonenko</h1></div>
+                                             style="left: 64px; width: 851px; position: absolute; top: 222px;"><h1
+                                                    class="font_0" style="line-height:1.2em; text-align:center;font-size: 44px">
+                                                Barrister, attorney, lawyer, advocate of Ukraine</h1></div>
                                         <div class="txtNew" id="comp-it437nmk"
-                                             style="left: 136px; width: 708px; position: absolute; top: 306px;"><h5
+                                             style="left: 136px; width: 708px; position: absolute; top: 365px;"><h5
                                                     class="font_5" style="text-align:center;"><span
                                                         style="font-family:open sans,sans-serif;"><span
-                                                            class="color_22"><span style="letter-spacing:0.3em;">Barrister, attorney, lawyer, advocate of Ukraine</span></span></span>
+                                                            class="color_22"><span style="letter-spacing:0.3em;">Rostislav Malimonenko</span></span></span>
                                             </h5>
                                         </div>
                                         <section class="strc1" id="comp-it439him"
