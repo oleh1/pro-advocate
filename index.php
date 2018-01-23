@@ -14,7 +14,7 @@
     <link rel="apple-touch-icon" href="icon.ico" type="image/x-icon">
 
     <style type="text/css">/*
- * contextMenu.js v 1.4.0
+ * contextMenu.js v 1.4.0срака
  * Author: Sudhanshu Yadav
  * s-yadav.github.com
  * Copyright (c) 2013 Sudhanshu Yadav.
