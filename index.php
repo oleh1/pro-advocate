@@ -10,8 +10,8 @@
     <title>Barrister, attorney, lawyer, advocate of Ukraine</title>
 
 
-    <link rel="shortcut icon" href="https://www.wix.com/favicon.ico" type="image/x-icon">
-    <link rel="apple-touch-icon" href="https://www.wix.com/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="icon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="icon.ico" type="image/x-icon">
 
     <style type="text/css">/*
  * contextMenu.js v 1.4.0
